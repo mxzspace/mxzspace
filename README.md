@@ -2,7 +2,7 @@
 
 <p align="center"><a href="#steam">🎮 捡游戏</a>　·　<a href="#frog">🐸 看小呱</a>　·　<a href="#box">🎁 拆盲盒</a>　·　<a href="#snake">🐍 看贪吃蛇</a>　·　<a href="https://github.com/mxzspace/mxzspace/blob/main/使用指南.md">📖 操作备忘</a></p>
 
-> 上次更新：北京时间 2026-09-19 22:35 · 每天 08:17 自动更新。
+> 上次更新：北京时间 2026-09-20 12:53 · 每天 08:17 自动更新。
 
 <a id="steam"></a>
 ## 🎮 Steam 免费游戏雷达
@@ -11,7 +11,7 @@
 
 ### 🎁 限时领取 · 永久保留
 
-检查时间：2026-09-19 12:37（北京时间）
+检查时间：2026-09-20 12:53（北京时间）
 
 <p><strong>Space Menace</strong> · 领取后永久保留<br>在 9 月 23 日 上午 10:00 前获取该商品，即可免费保留。 存在一些限制。<br><a href="https://store.steampowered.com/app/2000040/?cc=cn&amp;l=schinese">去 Steam 看看 →</a></p>
 
@@ -23,7 +23,7 @@
 
 ### ⏳ 免费周末 · 限时试玩
 
-检查时间：2026-09-19 12:37（北京时间）
+检查时间：2026-09-20 12:53（北京时间）
 
 <p><strong>Jump Space</strong> · 限时试玩，结束后通常需要购买<br>Steam 官方推荐栏标为限时试玩；结束时间和地区资格请打开商店确认。<br><a href="https://store.steampowered.com/app/1757300/?cc=cn&amp;l=schinese">去 Steam 看看 →</a></p>
 
@@ -32,31 +32,31 @@
 <a id="frog"></a>
 ## 🐸 小呱的慢旅行
 
-![小呱今天的明信片](https://raw.githubusercontent.com/mxzspace/mxzspace/main/assets/frog-5623c386fc0d.svg)
+![小呱今天的明信片](https://raw.githubusercontent.com/mxzspace/mxzspace/main/assets/frog-44cc830e96a7.svg)
 
-**体力：76/100**　·　**旅行：4 次**　·　**明天：体力够就出发**
+**体力：58/100**　·　**旅行：5 次**　·　**明天：体力够就出发**
 
-今天已喂过。
+今天还没喂。
 
 [🍙 喂小呱](https://github.com/mxzspace/mxzspace/issues/new?title=%E5%96%82%E5%B0%8F%E5%91%B1&body=%E6%A0%87%E9%A2%98%E5%B7%B2%E7%BB%8F%E5%A1%AB%E5%A5%BD%EF%BC%8C%E7%9B%B4%E6%8E%A5%E7%82%B9%E7%BB%BF%E8%89%B2%E7%9A%84%E3%80%8CSubmit+new+issue%E3%80%8D%EF%BC%88%E6%8F%90%E4%BA%A4%EF%BC%89%E3%80%82%0A%E7%AD%89%E8%BF%99%E6%9D%A1%E8%AE%B0%E5%BD%95%E8%87%AA%E5%8A%A8%E5%85%B3%E9%97%AD%EF%BC%8C%E5%86%8D%E5%9B%9E%E9%A6%96%E9%A1%B5%E5%88%B7%E6%96%B0%E3%80%82)　[🏡 明天休息](https://github.com/mxzspace/mxzspace/issues/new?title=%E6%98%8E%E5%A4%A9%E4%BC%91%E6%81%AF&body=%E6%A0%87%E9%A2%98%E5%B7%B2%E7%BB%8F%E5%A1%AB%E5%A5%BD%EF%BC%8C%E7%9B%B4%E6%8E%A5%E7%82%B9%E7%BB%BF%E8%89%B2%E7%9A%84%E3%80%8CSubmit+new+issue%E3%80%8D%EF%BC%88%E6%8F%90%E4%BA%A4%EF%BC%89%E3%80%82%0A%E7%AD%89%E8%BF%99%E6%9D%A1%E8%AE%B0%E5%BD%95%E8%87%AA%E5%8A%A8%E5%85%B3%E9%97%AD%EF%BC%8C%E5%86%8D%E5%9B%9E%E9%A6%96%E9%A1%B5%E5%88%B7%E6%96%B0%E3%80%82)　[🎒 明天出发](https://github.com/mxzspace/mxzspace/issues/new?title=%E6%98%8E%E5%A4%A9%E5%87%BA%E5%8F%91&body=%E6%A0%87%E9%A2%98%E5%B7%B2%E7%BB%8F%E5%A1%AB%E5%A5%BD%EF%BC%8C%E7%9B%B4%E6%8E%A5%E7%82%B9%E7%BB%BF%E8%89%B2%E7%9A%84%E3%80%8CSubmit+new+issue%E3%80%8D%EF%BC%88%E6%8F%90%E4%BA%A4%EF%BC%89%E3%80%82%0A%E7%AD%89%E8%BF%99%E6%9D%A1%E8%AE%B0%E5%BD%95%E8%87%AA%E5%8A%A8%E5%85%B3%E9%97%AD%EF%BC%8C%E5%86%8D%E5%9B%9E%E9%A6%96%E9%A1%B5%E5%88%B7%E6%96%B0%E3%80%82)　[📮 翻旅行相册](https://github.com/mxzspace/mxzspace/blob/main/旅行相册.md)
 
 <sub>点完操作，还要在下一页点绿色的「Submit new issue」（提交），再回来刷新。每天喂一次就够，不喂也会自己休息。</sub>
 
-![最近的旅行足迹](https://raw.githubusercontent.com/mxzspace/mxzspace/main/assets/footprints.svg?v=2026-09-19)
+![最近的旅行足迹](https://raw.githubusercontent.com/mxzspace/mxzspace/main/assets/footprints.svg?v=2026-09-20)
 
 <a id="box"></a>
 ## 🎁 今日网站盲盒
 
-**2026-09-19**　·　提示：**画几格，就有一首歌**
+**2026-09-20**　·　提示：**一幅永远走不到尽头的画**
 
 <details>
 <summary>拆开看看</summary>
 
-### 格子作曲机
+### 无尽画卷
 
-**音乐玩具** · 在彩色格子里点几下，再点左下角播放三角形，听你的旋律。
+**视觉旅行** · 打开后看画面不断放大，按页面提示可以调整速度。
 
-[🚀 打开今天的网站](https://musiclab.chromeexperiments.com/Song-Maker/)
+[🚀 打开今天的网站](https://zoomquilt.org/)
 
 每天换一个，一轮抽完再重复。遇到英文就用浏览器翻译。
 
@@ -66,11 +66,11 @@
 ## 🐍 我的贡献贪吃蛇
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mxzspace/mxzspace/main/assets/snake-dark-6ff17a8fc77c.svg">
-  <img alt="贪吃蛇正在吃我的真实 GitHub 贡献格子" src="https://raw.githubusercontent.com/mxzspace/mxzspace/main/assets/snake-6ff17a8fc77c.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mxzspace/mxzspace/main/assets/snake-dark-88869293d3f0.svg">
+  <img alt="贪吃蛇正在吃我的真实 GitHub 贡献格子" src="https://raw.githubusercontent.com/mxzspace/mxzspace/main/assets/snake-88869293d3f0.svg" width="100%">
 </picture>
 
-更新于 2026-09-19 · 看看最近的贡献格子。
+更新于 2026-09-20 · 看看最近的贡献格子。
 
 <sub>动画来源：<a href="https://github.com/Platane/snk">Platane/snk</a></sub>
 
