@@ -1,7 +1,7 @@
 {
   "frog": {
     "name": "小呱",
-    "energy": 58,
+    "energy": 40,
     "history": [
       {
         "place": "黄山",
@@ -47,36 +47,46 @@
         "scene": "city",
         "date": "2026-09-20",
         "rest": false
+      },
+      {
+        "place": "西双版纳",
+        "spot": "雨林深处",
+        "souvenir": "大叶子标本",
+        "diary": "在比自己大好多倍的叶子下面躲了一场虚拟小雨。",
+        "scene": "forest",
+        "date": "2026-09-21",
+        "rest": false
       }
     ],
-    "travel_count": 5,
-    "day": "2026-09-20",
+    "travel_count": 6,
+    "day": "2026-09-21",
     "rest_next": false,
     "message": "主页已更新。",
     "fed_day": "2026-09-19"
   },
   "box": {
-    "date": "2026-09-20",
+    "date": "2026-09-21",
     "site": {
-      "name": "无尽画卷",
-      "url": "https://zoomquilt.org/",
-      "tag": "视觉旅行",
-      "hint": "一幅永远走不到尽头的画",
-      "how": "打开后看画面不断放大，按页面提示可以调整速度。"
+      "name": "沙粒实验室",
+      "url": "https://sandspiel.club/",
+      "tag": "解压玩具",
+      "hint": "一把沙，一整个小世界",
+      "how": "在画布上拖动鼠标撒下材料，看它们流动、堆积和发生变化。菜单名称为英文，可逐个试。"
     },
     "cycle_used": [
       "https://radio.garden/",
       "https://littlealchemy2.com/",
       "https://www.window-swap.com/",
       "https://musiclab.chromeexperiments.com/Song-Maker/",
-      "https://zoomquilt.org/"
+      "https://zoomquilt.org/",
+      "https://sandspiel.club/"
     ]
   },
   "steam": {
     "keep": {
       "ok": true,
-      "checked_at": "2026-09-20 12:53",
-      "success_at": "2026-09-20 12:53",
+      "checked_at": "2026-09-21 12:55",
+      "success_at": "2026-09-21 12:55",
       "offers": [
         {
           "id": "2000040",
@@ -114,8 +124,8 @@
     },
     "trial": {
       "ok": true,
-      "checked_at": "2026-09-20 12:53",
-      "success_at": "2026-09-20 12:53",
+      "checked_at": "2026-09-21 12:55",
+      "success_at": "2026-09-21 12:55",
       "offers": [
         {
           "id": "1757300",
@@ -127,6 +137,6 @@
       ]
     }
   },
-  "updated_at": "2026-09-20 12:53",
-  "snake_day": "2026-09-20"
+  "updated_at": "2026-09-21 12:55",
+  "snake_day": "2026-09-21"
 }
