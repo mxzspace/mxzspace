@@ -2,7 +2,7 @@
 
 <p align="center"><a href="#steam">🎮 捡游戏</a>　·　<a href="#frog">🐸 看小呱</a>　·　<a href="#box">🎁 拆盲盒</a>　·　<a href="#snake">🐍 看贪吃蛇</a>　·　<a href="https://github.com/mxzspace/mxzspace/blob/main/使用指南.md">📖 操作备忘</a></p>
 
-> 上次更新：北京时间 2026-09-21 12:55 · 每天 08:17 自动更新。
+> 上次更新：北京时间 2026-09-22 12:55 · 每天 08:17 自动更新。
 
 <a id="steam"></a>
 ## 🎮 Steam 免费游戏雷达
@@ -11,7 +11,7 @@
 
 ### 🎁 限时领取 · 永久保留
 
-检查时间：2026-09-21 12:55（北京时间）
+检查时间：2026-09-22 12:55（北京时间）
 
 <p><strong>Space Menace</strong> · 领取后永久保留<br>在 9 月 23 日 上午 10:00 前获取该商品，即可免费保留。 存在一些限制。<br><a href="https://store.steampowered.com/app/2000040/?cc=cn&amp;l=schinese">去 Steam 看看 →</a></p>
 
@@ -23,18 +23,18 @@
 
 ### ⏳ 免费周末 · 限时试玩
 
-检查时间：2026-09-21 12:55（北京时间）
+检查时间：2026-09-22 12:55（北京时间）
 
-<p><strong>Jump Space</strong> · 限时试玩，结束后通常需要购买<br>Steam 官方推荐栏标为限时试玩；结束时间和地区资格请打开商店确认。<br><a href="https://store.steampowered.com/app/1757300/?cc=cn&amp;l=schinese">去 Steam 看看 →</a></p>
+这次没查到，明天再看看。
 
 国区商店结果，可能有遗漏；领取资格和截止时间以登录后的 Steam 页面为准。
 
 <a id="frog"></a>
 ## 🐸 小呱的慢旅行
 
-![小呱今天的明信片](https://raw.githubusercontent.com/mxzspace/mxzspace/main/assets/frog-315e6b54c7ef.svg)
+![小呱今天的明信片](https://raw.githubusercontent.com/mxzspace/mxzspace/main/assets/frog-ecd2297f8909.svg)
 
-**体力：40/100**　·　**旅行：6 次**　·　**明天：体力够就出发**
+**体力：22/100**　·　**旅行：7 次**　·　**明天：体力够就出发**
 
 今天还没喂。
 
@@ -42,21 +42,21 @@
 
 <sub>点完操作，还要在下一页点绿色的「Submit new issue」（提交），再回来刷新。每天喂一次就够，不喂也会自己休息。</sub>
 
-![最近的旅行足迹](https://raw.githubusercontent.com/mxzspace/mxzspace/main/assets/footprints.svg?v=2026-09-21)
+![最近的旅行足迹](https://raw.githubusercontent.com/mxzspace/mxzspace/main/assets/footprints.svg?v=2026-09-22)
 
 <a id="box"></a>
 ## 🎁 今日网站盲盒
 
-**2026-09-21**　·　提示：**一把沙，一整个小世界**
+**2026-09-22**　·　提示：**一颗会流动的地球**
 
 <details>
 <summary>拆开看看</summary>
 
-### 沙粒实验室
+### 地球风场
 
-**解压玩具** · 在画布上拖动鼠标撒下材料，看它们流动、堆积和发生变化。菜单名称为英文，可逐个试。
+**地球观察** · 拖动地球、滚轮缩放，看空气在地球上画线。左下角可切换图层。
 
-[🚀 打开今天的网站](https://sandspiel.club/)
+[🚀 打开今天的网站](https://earth.nullschool.net/zh-cn/)
 
 每天换一个，一轮抽完再重复。遇到英文就用浏览器翻译。
 
@@ -66,11 +66,11 @@
 ## 🐍 我的贡献贪吃蛇
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mxzspace/mxzspace/main/assets/snake-dark-5ba5e53b84c1.svg">
-  <img alt="贪吃蛇正在吃我的真实 GitHub 贡献格子" src="https://raw.githubusercontent.com/mxzspace/mxzspace/main/assets/snake-5ba5e53b84c1.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mxzspace/mxzspace/main/assets/snake-dark-6b9f4e93e893.svg">
+  <img alt="贪吃蛇正在吃我的真实 GitHub 贡献格子" src="https://raw.githubusercontent.com/mxzspace/mxzspace/main/assets/snake-6b9f4e93e893.svg" width="100%">
 </picture>
 
-更新于 2026-09-21 · 看看最近的贡献格子。
+更新于 2026-09-22 · 看看最近的贡献格子。
 
 <sub>动画来源：<a href="https://github.com/Platane/snk">Platane/snk</a></sub>
 

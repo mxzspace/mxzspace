@@ -1,7 +1,7 @@
 {
   "frog": {
     "name": "小呱",
-    "energy": 40,
+    "energy": 22,
     "history": [
       {
         "place": "黄山",
@@ -56,22 +56,31 @@
         "scene": "forest",
         "date": "2026-09-21",
         "rest": false
+      },
+      {
+        "place": "长白山",
+        "spot": "山顶湖泊",
+        "souvenir": "白石纪念章",
+        "diary": "山顶的湖很安静，我也轻轻地放下了脚步。",
+        "scene": "snow",
+        "date": "2026-09-22",
+        "rest": false
       }
     ],
-    "travel_count": 6,
-    "day": "2026-09-21",
+    "travel_count": 7,
+    "day": "2026-09-22",
     "rest_next": false,
     "message": "主页已更新。",
     "fed_day": "2026-09-19"
   },
   "box": {
-    "date": "2026-09-21",
+    "date": "2026-09-22",
     "site": {
-      "name": "沙粒实验室",
-      "url": "https://sandspiel.club/",
-      "tag": "解压玩具",
-      "hint": "一把沙，一整个小世界",
-      "how": "在画布上拖动鼠标撒下材料，看它们流动、堆积和发生变化。菜单名称为英文，可逐个试。"
+      "name": "地球风场",
+      "url": "https://earth.nullschool.net/zh-cn/",
+      "tag": "地球观察",
+      "hint": "一颗会流动的地球",
+      "how": "拖动地球、滚轮缩放，看空气在地球上画线。左下角可切换图层。"
     },
     "cycle_used": [
       "https://radio.garden/",
@@ -79,14 +88,15 @@
       "https://www.window-swap.com/",
       "https://musiclab.chromeexperiments.com/Song-Maker/",
       "https://zoomquilt.org/",
-      "https://sandspiel.club/"
+      "https://sandspiel.club/",
+      "https://earth.nullschool.net/zh-cn/"
     ]
   },
   "steam": {
     "keep": {
       "ok": true,
-      "checked_at": "2026-09-21 12:55",
-      "success_at": "2026-09-21 12:55",
+      "checked_at": "2026-09-22 12:55",
+      "success_at": "2026-09-22 12:55",
       "offers": [
         {
           "id": "2000040",
@@ -124,19 +134,11 @@
     },
     "trial": {
       "ok": true,
-      "checked_at": "2026-09-21 12:55",
-      "success_at": "2026-09-21 12:55",
-      "offers": [
-        {
-          "id": "1757300",
-          "name": "Jump Space",
-          "kind": "trial",
-          "note": "Steam 官方推荐栏标为限时试玩；结束时间和地区资格请打开商店确认。",
-          "url": "https://store.steampowered.com/app/1757300/?cc=cn&l=schinese"
-        }
-      ]
+      "checked_at": "2026-09-22 12:55",
+      "success_at": "2026-09-22 12:55",
+      "offers": []
     }
   },
-  "updated_at": "2026-09-21 12:55",
-  "snake_day": "2026-09-21"
+  "updated_at": "2026-09-22 12:55",
+  "snake_day": "2026-09-22"
 }
