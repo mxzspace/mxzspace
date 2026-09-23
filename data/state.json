@@ -1,7 +1,7 @@
 {
   "frog": {
     "name": "小呱",
-    "energy": 67,
+    "energy": 79,
     "history": [
       {
         "place": "黄山",
@@ -74,22 +74,31 @@
         "diary": "泡一杯热茶，把收来的纪念品摆好。今天先好好休息，明天再看远方。",
         "scene": "lake",
         "rest": true
+      },
+      {
+        "place": "敦煌",
+        "spot": "月牙泉",
+        "souvenir": "沙丘徽章",
+        "diary": "翻过一座软软的沙丘，发现沙海里藏着一弯月亮。",
+        "scene": "desert",
+        "date": "2026-09-24",
+        "rest": false
       }
     ],
-    "travel_count": 7,
-    "day": "2026-09-23",
+    "travel_count": 8,
+    "day": "2026-09-24",
     "rest_next": false,
-    "message": "主页已更新。",
-    "fed_day": "2026-09-19"
+    "message": "小呱吃到了饭团，体力恢复了！",
+    "fed_day": "2026-09-24"
   },
   "box": {
-    "date": "2026-09-23",
+    "date": "2026-09-24",
     "site": {
-      "name": "掌上星空",
-      "url": "https://stellarium-web.org/",
-      "tag": "看星星",
-      "hint": "今晚，抬头之外的宇宙",
-      "how": "拖动画面转动视角，滚轮缩放；可以搜索星体。部分菜单为英文，不影响看星空。"
+      "name": "因果小画板",
+      "url": "https://ncase.me/loopy/",
+      "tag": "脑洞实验",
+      "hint": "把想法画成会运转的圈",
+      "how": "先看示例，点圆点上的加减符号，观察变化沿着箭头传递。"
     },
     "cycle_used": [
       "https://radio.garden/",
@@ -99,7 +108,8 @@
       "https://zoomquilt.org/",
       "https://sandspiel.club/",
       "https://earth.nullschool.net/zh-cn/",
-      "https://stellarium-web.org/"
+      "https://stellarium-web.org/",
+      "https://ncase.me/loopy/"
     ]
   },
   "steam": {
@@ -141,6 +151,6 @@
       "offers": []
     }
   },
-  "updated_at": "2026-09-23 12:44",
-  "snake_day": "2026-09-23"
+  "updated_at": "2026-09-24 00:26",
+  "snake_day": "2026-09-24"
 }
