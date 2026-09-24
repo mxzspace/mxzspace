@@ -2,7 +2,7 @@
 
 <p align="center"><a href="#steam">🎮 捡游戏</a>　·　<a href="#frog">🐸 看小呱</a>　·　<a href="#box">🎁 拆盲盒</a>　·　<a href="#snake">🐍 看贪吃蛇</a>　·　<a href="https://github.com/mxzspace/mxzspace/blob/main/使用指南.md">📖 操作备忘</a></p>
 
-> 上次更新：北京时间 2026-09-24 00:26 · 每天 08:17 自动更新。
+> 上次更新：北京时间 2026-09-24 12:50 · 每天 08:17 自动更新。
 
 <a id="steam"></a>
 ## 🎮 Steam 免费游戏雷达
@@ -11,17 +11,13 @@
 
 ### 🎁 限时领取 · 永久保留
 
-检查时间：2026-09-23 12:44（北京时间）
-
-<p><strong>Space Menace</strong> · 领取后永久保留<br>在 9 月 23 日 上午 10:00 前获取该商品，即可免费保留。 存在一些限制。<br><a href="https://store.steampowered.com/app/2000040/?cc=cn&amp;l=schinese">去 Steam 看看 →</a></p>
-
-<p><strong>Deadshot</strong> · 领取后永久保留<br>在 9 月 23 日 上午 10:00 前获取该商品，即可免费保留。 存在一些限制。<br><a href="https://store.steampowered.com/app/2484180/?cc=cn&amp;l=schinese">去 Steam 看看 →</a></p>
+检查时间：2026-09-24 12:50（北京时间）
 
 <p><strong>《消逝的光芒：困兽》“高压电”武器包</strong> · 游戏附加内容，可能需要本体<br>在 9 月 24 日 上午 7:00 前获取该商品，即可免费保留。 存在一些限制。<br><a href="https://store.steampowered.com/app/4355480/?cc=cn&amp;l=schinese">去 Steam 看看 →</a></p>
 
 ### ⏳ 免费周末 · 限时试玩
 
-检查时间：2026-09-23 12:44（北京时间）
+检查时间：2026-09-24 12:50（北京时间）
 
 这次没查到，明天再看看。
 

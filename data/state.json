@@ -88,7 +88,7 @@
     "travel_count": 8,
     "day": "2026-09-24",
     "rest_next": false,
-    "message": "小呱吃到了饭团，体力恢复了！",
+    "message": "主页已更新。",
     "fed_day": "2026-09-24"
   },
   "box": {
@@ -115,25 +115,9 @@
   "steam": {
     "keep": {
       "ok": true,
-      "checked_at": "2026-09-23 12:44",
-      "success_at": "2026-09-23 12:44",
+      "checked_at": "2026-09-24 12:50",
+      "success_at": "2026-09-24 12:50",
       "offers": [
-        {
-          "id": "2000040",
-          "name": "Space Menace",
-          "kind": "keep",
-          "note": "在 9 月 23 日 上午 10:00 前获取该商品，即可免费保留。 存在一些限制。",
-          "url": "https://store.steampowered.com/app/2000040/?cc=cn&l=schinese",
-          "dlc": false
-        },
-        {
-          "id": "2484180",
-          "name": "Deadshot",
-          "kind": "keep",
-          "note": "在 9 月 23 日 上午 10:00 前获取该商品，即可免费保留。 存在一些限制。",
-          "url": "https://store.steampowered.com/app/2484180/?cc=cn&l=schinese",
-          "dlc": false
-        },
         {
           "id": "4355480",
           "name": "《消逝的光芒：困兽》“高压电”武器包",
@@ -146,11 +130,11 @@
     },
     "trial": {
       "ok": true,
-      "checked_at": "2026-09-23 12:44",
-      "success_at": "2026-09-23 12:44",
+      "checked_at": "2026-09-24 12:50",
+      "success_at": "2026-09-24 12:50",
       "offers": []
     }
   },
-  "updated_at": "2026-09-24 00:26",
+  "updated_at": "2026-09-24 12:50",
   "snake_day": "2026-09-24"
 }
