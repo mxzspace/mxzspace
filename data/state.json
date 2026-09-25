@@ -1,7 +1,7 @@
 {
   "frog": {
     "name": "小呱",
-    "energy": 79,
+    "energy": 61,
     "history": [
       {
         "place": "黄山",
@@ -83,58 +83,51 @@
         "scene": "desert",
         "date": "2026-09-24",
         "rest": false
+      },
+      {
+        "place": "舟山",
+        "spot": "小岛码头",
+        "souvenir": "海鸥贴纸",
+        "diary": "看小船离港，又等小船回来，今天适合发呆。",
+        "scene": "sea",
+        "date": "2026-09-25",
+        "rest": false
       }
     ],
-    "travel_count": 8,
-    "day": "2026-09-24",
+    "travel_count": 9,
+    "day": "2026-09-25",
     "rest_next": false,
     "message": "主页已更新。",
     "fed_day": "2026-09-24"
   },
   "box": {
-    "date": "2026-09-24",
+    "date": "2026-09-25",
     "site": {
-      "name": "因果小画板",
-      "url": "https://ncase.me/loopy/",
-      "tag": "脑洞实验",
-      "hint": "把想法画成会运转的圈",
-      "how": "先看示例，点圆点上的加减符号，观察变化沿着箭头传递。"
+      "name": "无尽画卷",
+      "url": "https://zoomquilt.org/",
+      "tag": "视觉旅行",
+      "hint": "一幅永远走不到尽头的画",
+      "how": "打开后看画面不断放大，按页面提示可以调整速度。"
     },
     "cycle_used": [
-      "https://radio.garden/",
-      "https://littlealchemy2.com/",
-      "https://www.window-swap.com/",
-      "https://musiclab.chromeexperiments.com/Song-Maker/",
-      "https://zoomquilt.org/",
-      "https://sandspiel.club/",
-      "https://earth.nullschool.net/zh-cn/",
-      "https://stellarium-web.org/",
-      "https://ncase.me/loopy/"
+      "https://zoomquilt.org/"
     ]
   },
   "steam": {
     "keep": {
       "ok": true,
-      "checked_at": "2026-09-24 12:50",
-      "success_at": "2026-09-24 12:50",
-      "offers": [
-        {
-          "id": "4355480",
-          "name": "《消逝的光芒：困兽》“高压电”武器包",
-          "kind": "keep",
-          "note": "在 9 月 24 日 上午 7:00 前获取该商品，即可免费保留。 存在一些限制。",
-          "url": "https://store.steampowered.com/app/4355480/?cc=cn&l=schinese",
-          "dlc": true
-        }
-      ]
+      "checked_at": "2026-09-25 12:57",
+      "success_at": "2026-09-25 12:57",
+      "offers": []
     },
     "trial": {
-      "ok": true,
-      "checked_at": "2026-09-24 12:50",
+      "ok": false,
+      "checked_at": "2026-09-25 12:57",
       "success_at": "2026-09-24 12:50",
-      "offers": []
+      "offers": [],
+      "error": "ValueError"
     }
   },
-  "updated_at": "2026-09-24 12:50",
-  "snake_day": "2026-09-24"
+  "updated_at": "2026-09-25 12:57",
+  "snake_day": "2026-09-25"
 }
