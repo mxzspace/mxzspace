@@ -1,7 +1,7 @@
 {
   "frog": {
     "name": "小呱",
-    "energy": 61,
+    "energy": 43,
     "history": [
       {
         "place": "黄山",
@@ -92,42 +92,61 @@
         "scene": "sea",
         "date": "2026-09-25",
         "rest": false
+      },
+      {
+        "place": "厦门",
+        "spot": "海边小路",
+        "souvenir": "贝壳纽扣",
+        "diary": "跟着潮声走了很远，把一枚贝壳装进背包。",
+        "scene": "sea",
+        "date": "2026-09-26",
+        "rest": false
       }
     ],
-    "travel_count": 9,
-    "day": "2026-09-25",
+    "travel_count": 10,
+    "day": "2026-09-26",
     "rest_next": false,
     "message": "主页已更新。",
     "fed_day": "2026-09-24"
   },
   "box": {
-    "date": "2026-09-25",
+    "date": "2026-09-26",
     "site": {
-      "name": "无尽画卷",
-      "url": "https://zoomquilt.org/",
-      "tag": "视觉旅行",
-      "hint": "一幅永远走不到尽头的画",
-      "how": "打开后看画面不断放大，按页面提示可以调整速度。"
+      "name": "沙粒实验室",
+      "url": "https://sandspiel.club/",
+      "tag": "解压玩具",
+      "hint": "一把沙，一整个小世界",
+      "how": "在画布上拖动鼠标撒下材料，看它们流动、堆积和发生变化。菜单名称为英文，可逐个试。"
     },
     "cycle_used": [
-      "https://zoomquilt.org/"
+      "https://zoomquilt.org/",
+      "https://sandspiel.club/"
     ]
   },
   "steam": {
     "keep": {
       "ok": true,
-      "checked_at": "2026-09-25 12:57",
-      "success_at": "2026-09-25 12:57",
-      "offers": []
+      "checked_at": "2026-09-26 12:58",
+      "success_at": "2026-09-26 12:58",
+      "offers": [
+        {
+          "id": "4059370",
+          "name": "Explosive Odds - Supporter Pack",
+          "kind": "keep",
+          "note": "在 9 月 29 日 下午 3:00 前获取该商品，即可免费保留。 存在一些限制。",
+          "url": "https://store.steampowered.com/app/4059370/?cc=cn&l=schinese",
+          "dlc": true
+        }
+      ]
     },
     "trial": {
       "ok": false,
-      "checked_at": "2026-09-25 12:57",
+      "checked_at": "2026-09-26 12:58",
       "success_at": "2026-09-24 12:50",
       "offers": [],
       "error": "ValueError"
     }
   },
-  "updated_at": "2026-09-25 12:57",
-  "snake_day": "2026-09-25"
+  "updated_at": "2026-09-26 12:58",
+  "snake_day": "2026-09-26"
 }
