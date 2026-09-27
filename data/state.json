@@ -1,7 +1,7 @@
 {
   "frog": {
     "name": "小呱",
-    "energy": 43,
+    "energy": 25,
     "history": [
       {
         "place": "黄山",
@@ -101,33 +101,43 @@
         "scene": "sea",
         "date": "2026-09-26",
         "rest": false
+      },
+      {
+        "place": "洛阳",
+        "spot": "花园小径",
+        "souvenir": "花瓣书签",
+        "diary": "花开得太热闹，我只好把背包放下来多看一会。",
+        "scene": "forest",
+        "date": "2026-09-27",
+        "rest": false
       }
     ],
-    "travel_count": 10,
-    "day": "2026-09-26",
+    "travel_count": 11,
+    "day": "2026-09-27",
     "rest_next": false,
     "message": "主页已更新。",
     "fed_day": "2026-09-24"
   },
   "box": {
-    "date": "2026-09-26",
+    "date": "2026-09-27",
     "site": {
-      "name": "沙粒实验室",
-      "url": "https://sandspiel.club/",
-      "tag": "解压玩具",
-      "hint": "一把沙，一整个小世界",
-      "how": "在画布上拖动鼠标撒下材料，看它们流动、堆积和发生变化。菜单名称为英文，可逐个试。"
+      "name": "因果小画板",
+      "url": "https://ncase.me/loopy/",
+      "tag": "脑洞实验",
+      "hint": "把想法画成会运转的圈",
+      "how": "先看示例，点圆点上的加减符号，观察变化沿着箭头传递。"
     },
     "cycle_used": [
       "https://zoomquilt.org/",
-      "https://sandspiel.club/"
+      "https://sandspiel.club/",
+      "https://ncase.me/loopy/"
     ]
   },
   "steam": {
     "keep": {
       "ok": true,
-      "checked_at": "2026-09-26 12:58",
-      "success_at": "2026-09-26 12:58",
+      "checked_at": "2026-09-27 13:18",
+      "success_at": "2026-09-27 13:18",
       "offers": [
         {
           "id": "4059370",
@@ -141,12 +151,12 @@
     },
     "trial": {
       "ok": false,
-      "checked_at": "2026-09-26 12:58",
+      "checked_at": "2026-09-27 13:18",
       "success_at": "2026-09-24 12:50",
       "offers": [],
       "error": "ValueError"
     }
   },
-  "updated_at": "2026-09-26 12:58",
-  "snake_day": "2026-09-26"
+  "updated_at": "2026-09-27 13:18",
+  "snake_day": "2026-09-27"
 }
