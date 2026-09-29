@@ -1,7 +1,7 @@
 {
   "frog": {
     "name": "小呱",
-    "energy": 7,
+    "energy": 52,
     "history": [
       {
         "place": "黄山",
@@ -119,35 +119,45 @@
         "scene": "city",
         "date": "2026-09-28",
         "rest": false
+      },
+      {
+        "date": "2026-09-29",
+        "place": "在家",
+        "spot": "荷叶小屋",
+        "souvenir": "休息日印章",
+        "diary": "泡一杯热茶，把收来的纪念品摆好。今天先好好休息，明天再看远方。",
+        "scene": "lake",
+        "rest": true
       }
     ],
     "travel_count": 12,
-    "day": "2026-09-28",
+    "day": "2026-09-29",
     "rest_next": false,
     "message": "主页已更新。",
     "fed_day": "2026-09-24"
   },
   "box": {
-    "date": "2026-09-28",
+    "date": "2026-09-29",
     "site": {
-      "name": "小小炼金术",
-      "url": "https://littlealchemy2.com/",
-      "tag": "合成游戏",
-      "hint": "水、火、空气，会合成什么",
-      "how": "把两个元素拖到一起尝试合成，先用图标理解玩法。部分提示为英文。"
+      "name": "地球风场",
+      "url": "https://earth.nullschool.net/zh-cn/",
+      "tag": "地球观察",
+      "hint": "一颗会流动的地球",
+      "how": "拖动地球、滚轮缩放，看空气在地球上画线。左下角可切换图层。"
     },
     "cycle_used": [
       "https://zoomquilt.org/",
       "https://sandspiel.club/",
       "https://ncase.me/loopy/",
-      "https://littlealchemy2.com/"
+      "https://littlealchemy2.com/",
+      "https://earth.nullschool.net/zh-cn/"
     ]
   },
   "steam": {
     "keep": {
       "ok": true,
-      "checked_at": "2026-09-28 13:23",
-      "success_at": "2026-09-28 13:23",
+      "checked_at": "2026-09-29 13:43",
+      "success_at": "2026-09-29 13:43",
       "offers": [
         {
           "id": "4059370",
@@ -161,19 +171,11 @@
     },
     "trial": {
       "ok": true,
-      "checked_at": "2026-09-28 13:23",
-      "success_at": "2026-09-28 13:23",
-      "offers": [
-        {
-          "id": "393380",
-          "name": "Squad",
-          "kind": "trial",
-          "note": "Steam 官方推荐栏标为限时试玩；结束时间和地区资格请打开商店确认。",
-          "url": "https://store.steampowered.com/app/393380/?cc=cn&l=schinese"
-        }
-      ]
+      "checked_at": "2026-09-29 13:43",
+      "success_at": "2026-09-29 13:43",
+      "offers": []
     }
   },
-  "updated_at": "2026-09-28 13:23",
-  "snake_day": "2026-09-28"
+  "updated_at": "2026-09-29 13:43",
+  "snake_day": "2026-09-29"
 }
