@@ -1,7 +1,7 @@
 {
   "frog": {
     "name": "小呱",
-    "energy": 52,
+    "energy": 34,
     "history": [
       {
         "place": "黄山",
@@ -128,54 +128,55 @@
         "diary": "泡一杯热茶，把收来的纪念品摆好。今天先好好休息，明天再看远方。",
         "scene": "lake",
         "rest": true
+      },
+      {
+        "place": "大理",
+        "spot": "洱海边",
+        "souvenir": "蓝色石子",
+        "diary": "风把围巾吹成一面小旗，湖面像揉碎的蓝玻璃。",
+        "scene": "lake",
+        "date": "2026-09-30",
+        "rest": false
       }
     ],
-    "travel_count": 12,
-    "day": "2026-09-29",
+    "travel_count": 13,
+    "day": "2026-09-30",
     "rest_next": false,
     "message": "主页已更新。",
     "fed_day": "2026-09-24"
   },
   "box": {
-    "date": "2026-09-29",
+    "date": "2026-09-30",
     "site": {
-      "name": "地球风场",
-      "url": "https://earth.nullschool.net/zh-cn/",
-      "tag": "地球观察",
-      "hint": "一颗会流动的地球",
-      "how": "拖动地球、滚轮缩放，看空气在地球上画线。左下角可切换图层。"
+      "name": "掌上星空",
+      "url": "https://stellarium-web.org/",
+      "tag": "看星星",
+      "hint": "今晚，抬头之外的宇宙",
+      "how": "拖动画面转动视角，滚轮缩放；可以搜索星体。部分菜单为英文，不影响看星空。"
     },
     "cycle_used": [
       "https://zoomquilt.org/",
       "https://sandspiel.club/",
       "https://ncase.me/loopy/",
       "https://littlealchemy2.com/",
-      "https://earth.nullschool.net/zh-cn/"
+      "https://earth.nullschool.net/zh-cn/",
+      "https://stellarium-web.org/"
     ]
   },
   "steam": {
     "keep": {
       "ok": true,
-      "checked_at": "2026-09-29 13:43",
-      "success_at": "2026-09-29 13:43",
-      "offers": [
-        {
-          "id": "4059370",
-          "name": "Explosive Odds - Supporter Pack",
-          "kind": "keep",
-          "note": "在 9 月 29 日 下午 3:00 前获取该商品，即可免费保留。 存在一些限制。",
-          "url": "https://store.steampowered.com/app/4059370/?cc=cn&l=schinese",
-          "dlc": true
-        }
-      ]
+      "checked_at": "2026-09-30 13:32",
+      "success_at": "2026-09-30 13:32",
+      "offers": []
     },
     "trial": {
       "ok": true,
-      "checked_at": "2026-09-29 13:43",
-      "success_at": "2026-09-29 13:43",
+      "checked_at": "2026-09-30 13:32",
+      "success_at": "2026-09-30 13:32",
       "offers": []
     }
   },
-  "updated_at": "2026-09-29 13:43",
-  "snake_day": "2026-09-29"
+  "updated_at": "2026-09-30 13:32",
+  "snake_day": "2026-09-30"
 }
