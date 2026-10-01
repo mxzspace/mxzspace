@@ -1,7 +1,7 @@
 {
   "frog": {
     "name": "小呱",
-    "energy": 34,
+    "energy": 16,
     "history": [
       {
         "place": "黄山",
@@ -137,22 +137,31 @@
         "scene": "lake",
         "date": "2026-09-30",
         "rest": false
+      },
+      {
+        "place": "杭州",
+        "spot": "西湖",
+        "souvenir": "荷叶书签",
+        "diary": "沿着湖边慢慢走，捡到一片像小伞的叶子。",
+        "scene": "lake",
+        "date": "2026-10-01",
+        "rest": false
       }
     ],
-    "travel_count": 13,
-    "day": "2026-09-30",
+    "travel_count": 14,
+    "day": "2026-10-01",
     "rest_next": false,
     "message": "主页已更新。",
     "fed_day": "2026-09-24"
   },
   "box": {
-    "date": "2026-09-30",
+    "date": "2026-10-01",
     "site": {
-      "name": "掌上星空",
-      "url": "https://stellarium-web.org/",
-      "tag": "看星星",
-      "hint": "今晚，抬头之外的宇宙",
-      "how": "拖动画面转动视角，滚轮缩放；可以搜索星体。部分菜单为英文，不影响看星空。"
+      "name": "窗外的世界",
+      "url": "https://www.window-swap.com/",
+      "tag": "云旅行",
+      "hint": "借一扇别人的窗，看世界",
+      "how": "点打开窗户的按钮，看来自别处的风景和环境声音；部分功能需要注册。"
     },
     "cycle_used": [
       "https://zoomquilt.org/",
@@ -160,23 +169,24 @@
       "https://ncase.me/loopy/",
       "https://littlealchemy2.com/",
       "https://earth.nullschool.net/zh-cn/",
-      "https://stellarium-web.org/"
+      "https://stellarium-web.org/",
+      "https://www.window-swap.com/"
     ]
   },
   "steam": {
     "keep": {
       "ok": true,
-      "checked_at": "2026-09-30 13:32",
-      "success_at": "2026-09-30 13:32",
+      "checked_at": "2026-10-01 13:53",
+      "success_at": "2026-10-01 13:53",
       "offers": []
     },
     "trial": {
       "ok": true,
-      "checked_at": "2026-09-30 13:32",
-      "success_at": "2026-09-30 13:32",
+      "checked_at": "2026-10-01 13:53",
+      "success_at": "2026-10-01 13:53",
       "offers": []
     }
   },
-  "updated_at": "2026-09-30 13:32",
-  "snake_day": "2026-09-30"
+  "updated_at": "2026-10-01 13:53",
+  "snake_day": "2026-10-01"
 }
