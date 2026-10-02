@@ -1,7 +1,7 @@
 {
   "frog": {
     "name": "小呱",
-    "energy": 16,
+    "energy": 61,
     "history": [
       {
         "place": "黄山",
@@ -146,22 +146,31 @@
         "scene": "lake",
         "date": "2026-10-01",
         "rest": false
+      },
+      {
+        "date": "2026-10-02",
+        "place": "在家",
+        "spot": "荷叶小屋",
+        "souvenir": "休息日印章",
+        "diary": "泡一杯热茶，把收来的纪念品摆好。今天先好好休息，明天再看远方。",
+        "scene": "lake",
+        "rest": true
       }
     ],
     "travel_count": 14,
-    "day": "2026-10-01",
+    "day": "2026-10-02",
     "rest_next": false,
     "message": "主页已更新。",
     "fed_day": "2026-09-24"
   },
   "box": {
-    "date": "2026-10-01",
+    "date": "2026-10-02",
     "site": {
-      "name": "窗外的世界",
-      "url": "https://www.window-swap.com/",
-      "tag": "云旅行",
-      "hint": "借一扇别人的窗，看世界",
-      "how": "点打开窗户的按钮，看来自别处的风景和环境声音；部分功能需要注册。"
+      "name": "全球电台花园",
+      "url": "https://radio.garden/",
+      "tag": "声音旅行",
+      "hint": "把地球当成收音机",
+      "how": "拖动地球选择绿色圆点，听当地电台；浏览器可能需要先点一下才会播放声音。"
     },
     "cycle_used": [
       "https://zoomquilt.org/",
@@ -170,23 +179,41 @@
       "https://littlealchemy2.com/",
       "https://earth.nullschool.net/zh-cn/",
       "https://stellarium-web.org/",
-      "https://www.window-swap.com/"
+      "https://www.window-swap.com/",
+      "https://radio.garden/"
     ]
   },
   "steam": {
     "keep": {
       "ok": true,
-      "checked_at": "2026-10-01 13:53",
-      "success_at": "2026-10-01 13:53",
-      "offers": []
+      "checked_at": "2026-10-02 13:36",
+      "success_at": "2026-10-02 13:36",
+      "offers": [
+        {
+          "id": "4847440",
+          "name": "MXGP 26 - Scrubdesignz Liveries",
+          "kind": "keep",
+          "note": "在 10 月 15 日 上午 10:00 前获取该商品，即可免费保留。 存在一些限制。",
+          "url": "https://store.steampowered.com/app/4847440/?cc=cn&l=schinese",
+          "dlc": true
+        },
+        {
+          "id": "5067220",
+          "name": "熔炉密林：爪克龙剑甲包",
+          "kind": "keep",
+          "note": "在 10 月 15 日 上午 10:00 前获取该商品，即可免费保留。 存在一些限制。",
+          "url": "https://store.steampowered.com/app/5067220/?cc=cn&l=schinese",
+          "dlc": true
+        }
+      ]
     },
     "trial": {
       "ok": true,
-      "checked_at": "2026-10-01 13:53",
-      "success_at": "2026-10-01 13:53",
+      "checked_at": "2026-10-02 13:36",
+      "success_at": "2026-10-02 13:36",
       "offers": []
     }
   },
-  "updated_at": "2026-10-01 13:53",
-  "snake_day": "2026-10-01"
+  "updated_at": "2026-10-02 13:36",
+  "snake_day": "2026-10-02"
 }
