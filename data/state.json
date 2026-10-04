@@ -1,7 +1,7 @@
 {
   "frog": {
     "name": "小呱",
-    "energy": 43,
+    "energy": 25,
     "history": [
       {
         "place": "黄山",
@@ -164,40 +164,41 @@
         "scene": "mountain",
         "date": "2026-10-03",
         "rest": false
+      },
+      {
+        "place": "青岛",
+        "spot": "海岸灯塔",
+        "souvenir": "灯塔贴纸",
+        "diary": "海风有一点咸，远处的灯塔像在对我眨眼。",
+        "scene": "sea",
+        "date": "2026-10-04",
+        "rest": false
       }
     ],
-    "travel_count": 15,
-    "day": "2026-10-03",
+    "travel_count": 16,
+    "day": "2026-10-04",
     "rest_next": false,
     "message": "主页已更新。",
     "fed_day": "2026-09-24"
   },
   "box": {
-    "date": "2026-10-03",
+    "date": "2026-10-04",
     "site": {
-      "name": "格子作曲机",
-      "url": "https://musiclab.chromeexperiments.com/Song-Maker/",
-      "tag": "音乐玩具",
-      "hint": "画几格，就有一首歌",
-      "how": "在彩色格子里点几下，再点左下角播放三角形，听你的旋律。"
+      "name": "沙粒实验室",
+      "url": "https://sandspiel.club/",
+      "tag": "解压玩具",
+      "hint": "一把沙，一整个小世界",
+      "how": "在画布上拖动鼠标撒下材料，看它们流动、堆积和发生变化。菜单名称为英文，可逐个试。"
     },
     "cycle_used": [
-      "https://zoomquilt.org/",
-      "https://sandspiel.club/",
-      "https://ncase.me/loopy/",
-      "https://littlealchemy2.com/",
-      "https://earth.nullschool.net/zh-cn/",
-      "https://stellarium-web.org/",
-      "https://www.window-swap.com/",
-      "https://radio.garden/",
-      "https://musiclab.chromeexperiments.com/Song-Maker/"
+      "https://sandspiel.club/"
     ]
   },
   "steam": {
     "keep": {
       "ok": true,
-      "checked_at": "2026-10-03 13:18",
-      "success_at": "2026-10-03 13:18",
+      "checked_at": "2026-10-04 13:52",
+      "success_at": "2026-10-04 13:52",
       "offers": [
         {
           "id": "4847440",
@@ -219,11 +220,11 @@
     },
     "trial": {
       "ok": true,
-      "checked_at": "2026-10-03 13:18",
-      "success_at": "2026-10-03 13:18",
+      "checked_at": "2026-10-04 13:52",
+      "success_at": "2026-10-04 13:52",
       "offers": []
     }
   },
-  "updated_at": "2026-10-03 13:18",
-  "snake_day": "2026-10-03"
+  "updated_at": "2026-10-04 13:52",
+  "snake_day": "2026-10-04"
 }
