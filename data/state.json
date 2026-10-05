@@ -1,7 +1,7 @@
 {
   "frog": {
     "name": "小呱",
-    "energy": 25,
+    "energy": 7,
     "history": [
       {
         "place": "黄山",
@@ -173,32 +173,42 @@
         "scene": "sea",
         "date": "2026-10-04",
         "rest": false
+      },
+      {
+        "place": "哈尔滨",
+        "spot": "冬日街角",
+        "souvenir": "雪花徽章",
+        "diary": "把脚印排成一条线，给雪人借了一下围巾。",
+        "scene": "snow",
+        "date": "2026-10-05",
+        "rest": false
       }
     ],
-    "travel_count": 16,
-    "day": "2026-10-04",
+    "travel_count": 17,
+    "day": "2026-10-05",
     "rest_next": false,
     "message": "主页已更新。",
     "fed_day": "2026-09-24"
   },
   "box": {
-    "date": "2026-10-04",
+    "date": "2026-10-05",
     "site": {
-      "name": "沙粒实验室",
-      "url": "https://sandspiel.club/",
-      "tag": "解压玩具",
-      "hint": "一把沙，一整个小世界",
-      "how": "在画布上拖动鼠标撒下材料，看它们流动、堆积和发生变化。菜单名称为英文，可逐个试。"
+      "name": "全球电台花园",
+      "url": "https://radio.garden/",
+      "tag": "声音旅行",
+      "hint": "把地球当成收音机",
+      "how": "拖动地球选择绿色圆点，听当地电台；浏览器可能需要先点一下才会播放声音。"
     },
     "cycle_used": [
-      "https://sandspiel.club/"
+      "https://sandspiel.club/",
+      "https://radio.garden/"
     ]
   },
   "steam": {
     "keep": {
       "ok": true,
-      "checked_at": "2026-10-04 13:52",
-      "success_at": "2026-10-04 13:52",
+      "checked_at": "2026-10-05 13:39",
+      "success_at": "2026-10-05 13:39",
       "offers": [
         {
           "id": "4847440",
@@ -220,11 +230,11 @@
     },
     "trial": {
       "ok": true,
-      "checked_at": "2026-10-04 13:52",
-      "success_at": "2026-10-04 13:52",
+      "checked_at": "2026-10-05 13:39",
+      "success_at": "2026-10-05 13:39",
       "offers": []
     }
   },
-  "updated_at": "2026-10-04 13:52",
-  "snake_day": "2026-10-04"
+  "updated_at": "2026-10-05 13:39",
+  "snake_day": "2026-10-05"
 }
