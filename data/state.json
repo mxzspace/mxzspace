@@ -1,7 +1,7 @@
 {
   "frog": {
     "name": "小呱",
-    "energy": 52,
+    "energy": 34,
     "history": [
       {
         "place": "黄山",
@@ -191,34 +191,44 @@
         "diary": "泡一杯热茶，把收来的纪念品摆好。今天先好好休息，明天再看远方。",
         "scene": "lake",
         "rest": true
+      },
+      {
+        "place": "苏州",
+        "spot": "小桥流水",
+        "souvenir": "花窗剪影",
+        "diary": "踩着石板路数桥，最后忘了数到第几座。",
+        "scene": "lake",
+        "date": "2026-10-07",
+        "rest": false
       }
     ],
-    "travel_count": 17,
-    "day": "2026-10-06",
+    "travel_count": 18,
+    "day": "2026-10-07",
     "rest_next": false,
     "message": "主页已更新。",
     "fed_day": "2026-09-24"
   },
   "box": {
-    "date": "2026-10-06",
+    "date": "2026-10-07",
     "site": {
-      "name": "因果小画板",
-      "url": "https://ncase.me/loopy/",
-      "tag": "脑洞实验",
-      "hint": "把想法画成会运转的圈",
-      "how": "先看示例，点圆点上的加减符号，观察变化沿着箭头传递。"
+      "name": "小小炼金术",
+      "url": "https://littlealchemy2.com/",
+      "tag": "合成游戏",
+      "hint": "水、火、空气，会合成什么",
+      "how": "把两个元素拖到一起尝试合成，先用图标理解玩法。部分提示为英文。"
     },
     "cycle_used": [
       "https://sandspiel.club/",
       "https://radio.garden/",
-      "https://ncase.me/loopy/"
+      "https://ncase.me/loopy/",
+      "https://littlealchemy2.com/"
     ]
   },
   "steam": {
     "keep": {
       "ok": true,
-      "checked_at": "2026-10-06 14:20",
-      "success_at": "2026-10-06 14:20",
+      "checked_at": "2026-10-07 13:59",
+      "success_at": "2026-10-07 13:59",
       "offers": [
         {
           "id": "4847440",
@@ -240,11 +250,11 @@
     },
     "trial": {
       "ok": true,
-      "checked_at": "2026-10-06 14:20",
-      "success_at": "2026-10-06 14:20",
+      "checked_at": "2026-10-07 13:59",
+      "success_at": "2026-10-07 13:59",
       "offers": []
     }
   },
-  "updated_at": "2026-10-06 14:20",
-  "snake_day": "2026-10-06"
+  "updated_at": "2026-10-07 13:59",
+  "snake_day": "2026-10-07"
 }
