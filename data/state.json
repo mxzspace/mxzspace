@@ -1,7 +1,7 @@
 {
   "frog": {
     "name": "小呱",
-    "energy": 34,
+    "energy": 16,
     "history": [
       {
         "place": "黄山",
@@ -200,35 +200,45 @@
         "scene": "lake",
         "date": "2026-10-07",
         "rest": false
+      },
+      {
+        "place": "泉州",
+        "spot": "老街巷口",
+        "souvenir": "红砖拓印",
+        "diary": "穿过弯弯的巷子，在老墙边等了一阵舒服的风。",
+        "scene": "city",
+        "date": "2026-10-08",
+        "rest": false
       }
     ],
-    "travel_count": 18,
-    "day": "2026-10-07",
+    "travel_count": 19,
+    "day": "2026-10-08",
     "rest_next": false,
     "message": "主页已更新。",
     "fed_day": "2026-09-24"
   },
   "box": {
-    "date": "2026-10-07",
+    "date": "2026-10-08",
     "site": {
-      "name": "小小炼金术",
-      "url": "https://littlealchemy2.com/",
-      "tag": "合成游戏",
-      "hint": "水、火、空气，会合成什么",
-      "how": "把两个元素拖到一起尝试合成，先用图标理解玩法。部分提示为英文。"
+      "name": "掌上星空",
+      "url": "https://stellarium-web.org/",
+      "tag": "看星星",
+      "hint": "今晚，抬头之外的宇宙",
+      "how": "拖动画面转动视角，滚轮缩放；可以搜索星体。部分菜单为英文，不影响看星空。"
     },
     "cycle_used": [
       "https://sandspiel.club/",
       "https://radio.garden/",
       "https://ncase.me/loopy/",
-      "https://littlealchemy2.com/"
+      "https://littlealchemy2.com/",
+      "https://stellarium-web.org/"
     ]
   },
   "steam": {
     "keep": {
       "ok": true,
-      "checked_at": "2026-10-07 13:59",
-      "success_at": "2026-10-07 13:59",
+      "checked_at": "2026-10-08 14:03",
+      "success_at": "2026-10-08 14:03",
       "offers": [
         {
           "id": "4847440",
@@ -250,11 +260,11 @@
     },
     "trial": {
       "ok": true,
-      "checked_at": "2026-10-07 13:59",
-      "success_at": "2026-10-07 13:59",
+      "checked_at": "2026-10-08 14:03",
+      "success_at": "2026-10-08 14:03",
       "offers": []
     }
   },
-  "updated_at": "2026-10-07 13:59",
-  "snake_day": "2026-10-07"
+  "updated_at": "2026-10-08 14:03",
+  "snake_day": "2026-10-08"
 }
