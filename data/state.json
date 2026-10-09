@@ -1,7 +1,7 @@
 {
   "frog": {
     "name": "小呱",
-    "energy": 16,
+    "energy": 61,
     "history": [
       {
         "place": "黄山",
@@ -209,37 +209,71 @@
         "scene": "city",
         "date": "2026-10-08",
         "rest": false
+      },
+      {
+        "date": "2026-10-09",
+        "place": "在家",
+        "spot": "荷叶小屋",
+        "souvenir": "休息日印章",
+        "diary": "泡一杯热茶，把收来的纪念品摆好。今天先好好休息，明天再看远方。",
+        "scene": "lake",
+        "rest": true
       }
     ],
     "travel_count": 19,
-    "day": "2026-10-08",
+    "day": "2026-10-09",
     "rest_next": false,
     "message": "主页已更新。",
     "fed_day": "2026-09-24"
   },
   "box": {
-    "date": "2026-10-08",
+    "date": "2026-10-09",
     "site": {
-      "name": "掌上星空",
-      "url": "https://stellarium-web.org/",
-      "tag": "看星星",
-      "hint": "今晚，抬头之外的宇宙",
-      "how": "拖动画面转动视角，滚轮缩放；可以搜索星体。部分菜单为英文，不影响看星空。"
+      "name": "地球风场",
+      "url": "https://earth.nullschool.net/zh-cn/",
+      "tag": "地球观察",
+      "hint": "一颗会流动的地球",
+      "how": "拖动地球、滚轮缩放，看空气在地球上画线。左下角可切换图层。"
     },
     "cycle_used": [
       "https://sandspiel.club/",
       "https://radio.garden/",
       "https://ncase.me/loopy/",
       "https://littlealchemy2.com/",
-      "https://stellarium-web.org/"
+      "https://stellarium-web.org/",
+      "https://earth.nullschool.net/zh-cn/"
     ]
   },
   "steam": {
     "keep": {
       "ok": true,
-      "checked_at": "2026-10-08 14:03",
-      "success_at": "2026-10-08 14:03",
+      "checked_at": "2026-10-09 14:08",
+      "success_at": "2026-10-09 14:08",
       "offers": [
+        {
+          "id": "2283211",
+          "name": "World of Warships — 宁海",
+          "kind": "keep",
+          "note": "在 10 月 12 日 下午 6:00 前获取该商品，即可免费保留。 存在一些限制。",
+          "url": "https://store.steampowered.com/app/2283211/?cc=cn&l=schinese",
+          "dlc": true
+        },
+        {
+          "id": "405640",
+          "name": "Pony Island",
+          "kind": "keep",
+          "note": "在 10 月 12 日 上午 10:00 前获取该商品，即可免费保留。 存在一些限制。",
+          "url": "https://store.steampowered.com/app/405640/?cc=cn&l=schinese",
+          "dlc": false
+        },
+        {
+          "id": "4114140",
+          "name": "Gear.Club Unlimited 3 - Gear.Club Signature Pack",
+          "kind": "keep",
+          "note": "在 10 月 22 日 上午 10:00 前获取该商品，即可免费保留。 存在一些限制。",
+          "url": "https://store.steampowered.com/app/4114140/?cc=cn&l=schinese",
+          "dlc": true
+        },
         {
           "id": "4847440",
           "name": "MXGP 26 - Scrubdesignz Liveries",
@@ -260,11 +294,19 @@
     },
     "trial": {
       "ok": true,
-      "checked_at": "2026-10-08 14:03",
-      "success_at": "2026-10-08 14:03",
-      "offers": []
+      "checked_at": "2026-10-09 14:08",
+      "success_at": "2026-10-09 14:08",
+      "offers": [
+        {
+          "id": "1621690",
+          "name": "护核纪元",
+          "kind": "trial",
+          "note": "Steam 官方推荐栏标为限时试玩；结束时间和地区资格请打开商店确认。",
+          "url": "https://store.steampowered.com/app/1621690/?cc=cn&l=schinese"
+        }
+      ]
     }
   },
-  "updated_at": "2026-10-08 14:03",
-  "snake_day": "2026-10-08"
+  "updated_at": "2026-10-09 14:08",
+  "snake_day": "2026-10-09"
 }
