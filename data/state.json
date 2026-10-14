@@ -1,7 +1,7 @@
 {
   "frog": {
     "name": "小呱",
-    "energy": 52,
+    "energy": 34,
     "history": [
       {
         "place": "黄山",
@@ -254,32 +254,42 @@
         "diary": "泡一杯热茶，把收来的纪念品摆好。今天先好好休息，明天再看远方。",
         "scene": "lake",
         "rest": true
+      },
+      {
+        "place": "敦煌",
+        "spot": "月牙泉",
+        "souvenir": "沙丘徽章",
+        "diary": "翻过一座软软的沙丘，发现沙海里藏着一弯月亮。",
+        "scene": "desert",
+        "date": "2026-10-14",
+        "rest": false
       }
     ],
-    "travel_count": 22,
-    "day": "2026-10-13",
+    "travel_count": 23,
+    "day": "2026-10-14",
     "rest_next": false,
     "message": "主页已更新。",
     "fed_day": "2026-09-24"
   },
   "box": {
-    "date": "2026-10-13",
+    "date": "2026-10-14",
     "site": {
-      "name": "地球风场",
-      "url": "https://earth.nullschool.net/zh-cn/",
-      "tag": "地球观察",
-      "hint": "一颗会流动的地球",
-      "how": "拖动地球、滚轮缩放，看空气在地球上画线。左下角可切换图层。"
+      "name": "因果小画板",
+      "url": "https://ncase.me/loopy/",
+      "tag": "脑洞实验",
+      "hint": "把想法画成会运转的圈",
+      "how": "先看示例，点圆点上的加减符号，观察变化沿着箭头传递。"
     },
     "cycle_used": [
-      "https://earth.nullschool.net/zh-cn/"
+      "https://earth.nullschool.net/zh-cn/",
+      "https://ncase.me/loopy/"
     ]
   },
   "steam": {
     "keep": {
       "ok": true,
-      "checked_at": "2026-10-13 14:46",
-      "success_at": "2026-10-13 14:46",
+      "checked_at": "2026-10-14 12:53",
+      "success_at": "2026-10-14 12:53",
       "offers": [
         {
           "id": "4114140",
@@ -317,11 +327,11 @@
     },
     "trial": {
       "ok": true,
-      "checked_at": "2026-10-13 14:46",
-      "success_at": "2026-10-13 14:46",
+      "checked_at": "2026-10-14 12:53",
+      "success_at": "2026-10-14 12:53",
       "offers": []
     }
   },
-  "updated_at": "2026-10-13 14:46",
-  "snake_day": "2026-10-13"
+  "updated_at": "2026-10-14 12:53",
+  "snake_day": "2026-10-14"
 }
