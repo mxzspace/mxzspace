@@ -1,7 +1,7 @@
 {
   "frog": {
     "name": "小呱",
-    "energy": 34,
+    "energy": 16,
     "history": [
       {
         "place": "黄山",
@@ -263,33 +263,43 @@
         "scene": "desert",
         "date": "2026-10-14",
         "rest": false
+      },
+      {
+        "place": "桂林",
+        "spot": "山水之间",
+        "souvenir": "竹筏船票",
+        "diary": "坐在竹筏上晃晃悠悠，看青山慢慢往后退。",
+        "scene": "mountain",
+        "date": "2026-10-15",
+        "rest": false
       }
     ],
-    "travel_count": 23,
-    "day": "2026-10-14",
+    "travel_count": 24,
+    "day": "2026-10-15",
     "rest_next": false,
     "message": "主页已更新。",
     "fed_day": "2026-09-24"
   },
   "box": {
-    "date": "2026-10-14",
+    "date": "2026-10-15",
     "site": {
-      "name": "因果小画板",
-      "url": "https://ncase.me/loopy/",
-      "tag": "脑洞实验",
-      "hint": "把想法画成会运转的圈",
-      "how": "先看示例，点圆点上的加减符号，观察变化沿着箭头传递。"
+      "name": "窗外的世界",
+      "url": "https://www.window-swap.com/",
+      "tag": "云旅行",
+      "hint": "借一扇别人的窗，看世界",
+      "how": "点打开窗户的按钮，看来自别处的风景和环境声音；部分功能需要注册。"
     },
     "cycle_used": [
       "https://earth.nullschool.net/zh-cn/",
-      "https://ncase.me/loopy/"
+      "https://ncase.me/loopy/",
+      "https://www.window-swap.com/"
     ]
   },
   "steam": {
     "keep": {
       "ok": true,
-      "checked_at": "2026-10-14 12:53",
-      "success_at": "2026-10-14 12:53",
+      "checked_at": "2026-10-15 12:38",
+      "success_at": "2026-10-15 12:38",
       "offers": [
         {
           "id": "4114140",
@@ -327,11 +337,11 @@
     },
     "trial": {
       "ok": true,
-      "checked_at": "2026-10-14 12:53",
-      "success_at": "2026-10-14 12:53",
+      "checked_at": "2026-10-15 12:38",
+      "success_at": "2026-10-15 12:38",
       "offers": []
     }
   },
-  "updated_at": "2026-10-14 12:53",
-  "snake_day": "2026-10-14"
+  "updated_at": "2026-10-15 12:38",
+  "snake_day": "2026-10-15"
 }
