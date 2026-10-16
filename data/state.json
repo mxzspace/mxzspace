@@ -1,7 +1,7 @@
 {
   "frog": {
     "name": "小呱",
-    "energy": 16,
+    "energy": 61,
     "history": [
       {
         "place": "黄山",
@@ -272,34 +272,44 @@
         "scene": "mountain",
         "date": "2026-10-15",
         "rest": false
+      },
+      {
+        "date": "2026-10-16",
+        "place": "在家",
+        "spot": "荷叶小屋",
+        "souvenir": "休息日印章",
+        "diary": "泡一杯热茶，把收来的纪念品摆好。今天先好好休息，明天再看远方。",
+        "scene": "lake",
+        "rest": true
       }
     ],
     "travel_count": 24,
-    "day": "2026-10-15",
+    "day": "2026-10-16",
     "rest_next": false,
     "message": "主页已更新。",
     "fed_day": "2026-09-24"
   },
   "box": {
-    "date": "2026-10-15",
+    "date": "2026-10-16",
     "site": {
-      "name": "窗外的世界",
-      "url": "https://www.window-swap.com/",
-      "tag": "云旅行",
-      "hint": "借一扇别人的窗，看世界",
-      "how": "点打开窗户的按钮，看来自别处的风景和环境声音；部分功能需要注册。"
+      "name": "掌上星空",
+      "url": "https://stellarium-web.org/",
+      "tag": "看星星",
+      "hint": "今晚，抬头之外的宇宙",
+      "how": "拖动画面转动视角，滚轮缩放；可以搜索星体。部分菜单为英文，不影响看星空。"
     },
     "cycle_used": [
       "https://earth.nullschool.net/zh-cn/",
       "https://ncase.me/loopy/",
-      "https://www.window-swap.com/"
+      "https://www.window-swap.com/",
+      "https://stellarium-web.org/"
     ]
   },
   "steam": {
     "keep": {
       "ok": true,
-      "checked_at": "2026-10-15 12:38",
-      "success_at": "2026-10-15 12:38",
+      "checked_at": "2026-10-16 12:31",
+      "success_at": "2026-10-16 12:31",
       "offers": [
         {
           "id": "4114140",
@@ -310,11 +320,11 @@
           "dlc": true
         },
         {
-          "id": "4847440",
-          "name": "MXGP 26 - Scrubdesignz Liveries",
+          "id": "4841320",
+          "name": "Squad Weapon Skins - Recon Team Pack ",
           "kind": "keep",
-          "note": "在 10 月 15 日 上午 10:00 前获取该商品，即可免费保留。 存在一些限制。",
-          "url": "https://store.steampowered.com/app/4847440/?cc=cn&l=schinese",
+          "note": "在 10 月 25 日 上午 11:00 前获取该商品，即可免费保留。 存在一些限制。",
+          "url": "https://store.steampowered.com/app/4841320/?cc=cn&l=schinese",
           "dlc": true
         },
         {
@@ -324,24 +334,31 @@
           "note": "在 10 月 19 日 上午 10:00 前获取该商品，即可免费保留。 存在一些限制。",
           "url": "https://store.steampowered.com/app/5007040/?cc=cn&l=schinese",
           "dlc": true
-        },
-        {
-          "id": "5067220",
-          "name": "熔炉密林：爪克龙剑甲包",
-          "kind": "keep",
-          "note": "在 10 月 15 日 上午 10:00 前获取该商品，即可免费保留。 存在一些限制。",
-          "url": "https://store.steampowered.com/app/5067220/?cc=cn&l=schinese",
-          "dlc": true
         }
       ]
     },
     "trial": {
       "ok": true,
-      "checked_at": "2026-10-15 12:38",
-      "success_at": "2026-10-15 12:38",
-      "offers": []
+      "checked_at": "2026-10-16 12:31",
+      "success_at": "2026-10-16 12:31",
+      "offers": [
+        {
+          "id": "2807960",
+          "name": "战地风云™ 6",
+          "kind": "trial",
+          "note": "Steam 官方推荐栏标为限时试玩；结束时间和地区资格请打开商店确认。",
+          "url": "https://store.steampowered.com/app/2807960/?cc=cn&l=schinese"
+        },
+        {
+          "id": "313120",
+          "name": "Stranded Deep",
+          "kind": "trial",
+          "note": "Steam 官方推荐栏标为限时试玩；结束时间和地区资格请打开商店确认。",
+          "url": "https://store.steampowered.com/app/313120/?cc=cn&l=schinese"
+        }
+      ]
     }
   },
-  "updated_at": "2026-10-15 12:38",
-  "snake_day": "2026-10-15"
+  "updated_at": "2026-10-16 12:31",
+  "snake_day": "2026-10-16"
 }
