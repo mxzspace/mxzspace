@@ -1,7 +1,7 @@
 {
   "frog": {
     "name": "小呱",
-    "energy": 61,
+    "energy": 43,
     "history": [
       {
         "place": "黄山",
@@ -281,35 +281,45 @@
         "diary": "泡一杯热茶，把收来的纪念品摆好。今天先好好休息，明天再看远方。",
         "scene": "lake",
         "rest": true
+      },
+      {
+        "place": "舟山",
+        "spot": "小岛码头",
+        "souvenir": "海鸥贴纸",
+        "diary": "看小船离港，又等小船回来，今天适合发呆。",
+        "scene": "sea",
+        "date": "2026-10-17",
+        "rest": false
       }
     ],
-    "travel_count": 24,
-    "day": "2026-10-16",
+    "travel_count": 25,
+    "day": "2026-10-17",
     "rest_next": false,
     "message": "主页已更新。",
     "fed_day": "2026-09-24"
   },
   "box": {
-    "date": "2026-10-16",
+    "date": "2026-10-17",
     "site": {
-      "name": "掌上星空",
-      "url": "https://stellarium-web.org/",
-      "tag": "看星星",
-      "hint": "今晚，抬头之外的宇宙",
-      "how": "拖动画面转动视角，滚轮缩放；可以搜索星体。部分菜单为英文，不影响看星空。"
+      "name": "无尽画卷",
+      "url": "https://zoomquilt.org/",
+      "tag": "视觉旅行",
+      "hint": "一幅永远走不到尽头的画",
+      "how": "打开后看画面不断放大，按页面提示可以调整速度。"
     },
     "cycle_used": [
       "https://earth.nullschool.net/zh-cn/",
       "https://ncase.me/loopy/",
       "https://www.window-swap.com/",
-      "https://stellarium-web.org/"
+      "https://stellarium-web.org/",
+      "https://zoomquilt.org/"
     ]
   },
   "steam": {
     "keep": {
       "ok": true,
-      "checked_at": "2026-10-16 12:31",
-      "success_at": "2026-10-16 12:31",
+      "checked_at": "2026-10-17 12:25",
+      "success_at": "2026-10-17 12:25",
       "offers": [
         {
           "id": "4114140",
@@ -339,8 +349,8 @@
     },
     "trial": {
       "ok": true,
-      "checked_at": "2026-10-16 12:31",
-      "success_at": "2026-10-16 12:31",
+      "checked_at": "2026-10-17 12:25",
+      "success_at": "2026-10-17 12:25",
       "offers": [
         {
           "id": "2807960",
@@ -359,6 +369,6 @@
       ]
     }
   },
-  "updated_at": "2026-10-16 12:31",
-  "snake_day": "2026-10-16"
+  "updated_at": "2026-10-17 12:25",
+  "snake_day": "2026-10-17"
 }
