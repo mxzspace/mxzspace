@@ -1,7 +1,7 @@
 {
   "frog": {
     "name": "小呱",
-    "energy": 16,
+    "energy": 61,
     "history": [
       {
         "place": "黄山",
@@ -335,41 +335,43 @@
         "scene": "mountain",
         "date": "2026-10-22",
         "rest": false
+      },
+      {
+        "date": "2026-10-23",
+        "place": "在家",
+        "spot": "荷叶小屋",
+        "souvenir": "休息日印章",
+        "diary": "泡一杯热茶，把收来的纪念品摆好。今天先好好休息，明天再看远方。",
+        "scene": "lake",
+        "rest": true
       }
     ],
     "travel_count": 29,
-    "day": "2026-10-22",
+    "day": "2026-10-23",
     "rest_next": false,
     "message": "主页已更新。",
     "fed_day": "2026-09-24"
   },
   "box": {
-    "date": "2026-10-22",
+    "date": "2026-10-23",
     "site": {
-      "name": "窗外的世界",
-      "url": "https://www.window-swap.com/",
-      "tag": "云旅行",
-      "hint": "借一扇别人的窗，看世界",
-      "how": "点打开窗户的按钮，看来自别处的风景和环境声音；部分功能需要注册。"
+      "name": "因果小画板",
+      "url": "https://ncase.me/loopy/",
+      "tag": "脑洞实验",
+      "hint": "把想法画成会运转的圈",
+      "how": "先看示例，点圆点上的加减符号，观察变化沿着箭头传递。"
     },
     "cycle_used": [
-      "https://www.window-swap.com/"
+      "https://www.window-swap.com/",
+      "https://ncase.me/loopy/"
     ]
   },
   "steam": {
     "keep": {
       "ok": true,
-      "checked_at": "2026-10-22 12:44",
-      "success_at": "2026-10-22 12:44",
+      "checked_at": "2026-10-23 12:48",
+      "success_at": "2026-10-23 12:48",
       "offers": [
-        {
-          "id": "4114140",
-          "name": "Gear.Club Unlimited 3 - Gear.Club Signature Pack",
-          "kind": "keep",
-          "note": "在 10 月 22 日 上午 10:00 前获取该商品，即可免费保留。 存在一些限制。",
-          "url": "https://store.steampowered.com/app/4114140/?cc=cn&l=schinese",
-          "dlc": true
-        },
         {
           "id": "4841320",
           "name": "Squad Weapon Skins - Recon Team Pack ",
@@ -377,16 +379,24 @@
           "note": "在 10 月 25 日 上午 11:00 前获取该商品，即可免费保留。 存在一些限制。",
           "url": "https://store.steampowered.com/app/4841320/?cc=cn&l=schinese",
           "dlc": true
+        },
+        {
+          "id": "5340370",
+          "name": "Popcorn & Premieren - Ausgehviertel",
+          "kind": "keep",
+          "note": "在 10 月 29 日 上午 10:00 前获取该商品，即可免费保留。 存在一些限制。",
+          "url": "https://store.steampowered.com/app/5340370/?cc=cn&l=schinese",
+          "dlc": true
         }
       ]
     },
     "trial": {
       "ok": true,
-      "checked_at": "2026-10-22 12:44",
-      "success_at": "2026-10-22 12:44",
+      "checked_at": "2026-10-23 12:48",
+      "success_at": "2026-10-23 12:48",
       "offers": []
     }
   },
-  "updated_at": "2026-10-22 12:44",
-  "snake_day": "2026-10-22"
+  "updated_at": "2026-10-23 12:48",
+  "snake_day": "2026-10-23"
 }
