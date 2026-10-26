@@ -1,7 +1,7 @@
 {
   "frog": {
     "name": "小呱",
-    "energy": 25,
+    "energy": 7,
     "history": [
       {
         "place": "黄山",
@@ -362,44 +362,46 @@
         "scene": "snow",
         "date": "2026-10-25",
         "rest": false
+      },
+      {
+        "place": "杭州",
+        "spot": "西湖",
+        "souvenir": "荷叶书签",
+        "diary": "沿着湖边慢慢走，捡到一片像小伞的叶子。",
+        "scene": "lake",
+        "date": "2026-10-26",
+        "rest": false
       }
     ],
-    "travel_count": 31,
-    "day": "2026-10-25",
+    "travel_count": 32,
+    "day": "2026-10-26",
     "rest_next": false,
     "message": "主页已更新。",
     "fed_day": "2026-09-24"
   },
   "box": {
-    "date": "2026-10-25",
+    "date": "2026-10-26",
     "site": {
-      "name": "地球风场",
-      "url": "https://earth.nullschool.net/zh-cn/",
-      "tag": "地球观察",
-      "hint": "一颗会流动的地球",
-      "how": "拖动地球、滚轮缩放，看空气在地球上画线。左下角可切换图层。"
+      "name": "掌上星空",
+      "url": "https://stellarium-web.org/",
+      "tag": "看星星",
+      "hint": "今晚，抬头之外的宇宙",
+      "how": "拖动画面转动视角，滚轮缩放；可以搜索星体。部分菜单为英文，不影响看星空。"
     },
     "cycle_used": [
       "https://www.window-swap.com/",
       "https://ncase.me/loopy/",
       "https://musiclab.chromeexperiments.com/Song-Maker/",
-      "https://earth.nullschool.net/zh-cn/"
+      "https://earth.nullschool.net/zh-cn/",
+      "https://stellarium-web.org/"
     ]
   },
   "steam": {
     "keep": {
       "ok": true,
-      "checked_at": "2026-10-25 12:40",
-      "success_at": "2026-10-25 12:40",
+      "checked_at": "2026-10-26 12:46",
+      "success_at": "2026-10-26 12:46",
       "offers": [
-        {
-          "id": "4841320",
-          "name": "Squad Weapon Skins - Recon Team Pack ",
-          "kind": "keep",
-          "note": "在 10 月 25 日 上午 11:00 前获取该商品，即可免费保留。 存在一些限制。",
-          "url": "https://store.steampowered.com/app/4841320/?cc=cn&l=schinese",
-          "dlc": true
-        },
         {
           "id": "5340370",
           "name": "Popcorn & Premieren - Ausgehviertel",
@@ -412,11 +414,11 @@
     },
     "trial": {
       "ok": true,
-      "checked_at": "2026-10-25 12:40",
-      "success_at": "2026-10-25 12:40",
+      "checked_at": "2026-10-26 12:46",
+      "success_at": "2026-10-26 12:46",
       "offers": []
     }
   },
-  "updated_at": "2026-10-25 12:40",
-  "snake_day": "2026-10-25"
+  "updated_at": "2026-10-26 12:46",
+  "snake_day": "2026-10-26"
 }
