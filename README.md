@@ -2,7 +2,7 @@
 
 <p align="center"><a href="#steam">🎮 捡游戏</a>　·　<a href="#frog">🐸 看小呱</a>　·　<a href="#box">🎁 拆盲盒</a>　·　<a href="#snake">🐍 看贪吃蛇</a>　·　<a href="https://github.com/mxzspace/mxzspace/blob/main/使用指南.md">📖 操作备忘</a></p>
 
-> 上次更新：北京时间 2026-10-26 12:46 · 每天 08:17 自动更新。
+> 上次更新：北京时间 2026-10-27 13:04 · 每天 08:17 自动更新。
 
 <a id="steam"></a>
 ## 🎮 Steam 免费游戏雷达
@@ -11,13 +11,13 @@
 
 ### 🎁 限时领取 · 永久保留
 
-检查时间：2026-10-26 12:46（北京时间）
+检查时间：2026-10-27 13:04（北京时间）
 
 <p><strong>Popcorn &amp; Premieren - Ausgehviertel</strong> · 游戏附加内容，可能需要本体<br>在 10 月 29 日 上午 10:00 前获取该商品，即可免费保留。 存在一些限制。<br><a href="https://store.steampowered.com/app/5340370/?cc=cn&amp;l=schinese">去 Steam 看看 →</a></p>
 
 ### ⏳ 免费周末 · 限时试玩
 
-检查时间：2026-10-26 12:46（北京时间）
+检查时间：2026-10-27 13:04（北京时间）
 
 这次没查到，明天再看看。
 
@@ -26,9 +26,9 @@
 <a id="frog"></a>
 ## 🐸 小呱的慢旅行
 
-![小呱今天的明信片](https://raw.githubusercontent.com/mxzspace/mxzspace/main/assets/frog-772a8e06afb0.svg)
+![小呱今天的明信片](https://raw.githubusercontent.com/mxzspace/mxzspace/main/assets/frog-5506884f3f54.svg)
 
-**体力：7/100**　·　**旅行：32 次**　·　**明天：体力够就出发**
+**体力：52/100**　·　**旅行：32 次**　·　**明天：体力够就出发**
 
 今天还没喂。
 
@@ -36,21 +36,21 @@
 
 <sub>点完操作，还要在下一页点绿色的「Submit new issue」（提交），再回来刷新。每天喂一次就够，不喂也会自己休息。</sub>
 
-![最近的旅行足迹](https://raw.githubusercontent.com/mxzspace/mxzspace/main/assets/footprints.svg?v=2026-10-26)
+![最近的旅行足迹](https://raw.githubusercontent.com/mxzspace/mxzspace/main/assets/footprints.svg?v=2026-10-27)
 
 <a id="box"></a>
 ## 🎁 今日网站盲盒
 
-**2026-10-26**　·　提示：**今晚，抬头之外的宇宙**
+**2026-10-27**　·　提示：**把地球当成收音机**
 
 <details>
 <summary>拆开看看</summary>
 
-### 掌上星空
+### 全球电台花园
 
-**看星星** · 拖动画面转动视角，滚轮缩放；可以搜索星体。部分菜单为英文，不影响看星空。
+**声音旅行** · 拖动地球选择绿色圆点，听当地电台；浏览器可能需要先点一下才会播放声音。
 
-[🚀 打开今天的网站](https://stellarium-web.org/)
+[🚀 打开今天的网站](https://radio.garden/)
 
 每天换一个，一轮抽完再重复。遇到英文就用浏览器翻译。
 
@@ -60,11 +60,11 @@
 ## 🐍 我的贡献贪吃蛇
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mxzspace/mxzspace/main/assets/snake-dark-360e0ea98ea1.svg">
-  <img alt="贪吃蛇正在吃我的真实 GitHub 贡献格子" src="https://raw.githubusercontent.com/mxzspace/mxzspace/main/assets/snake-360e0ea98ea1.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mxzspace/mxzspace/main/assets/snake-dark-62b2ec40bad9.svg">
+  <img alt="贪吃蛇正在吃我的真实 GitHub 贡献格子" src="https://raw.githubusercontent.com/mxzspace/mxzspace/main/assets/snake-62b2ec40bad9.svg" width="100%">
 </picture>
 
-更新于 2026-10-26 · 看看最近的贡献格子。
+更新于 2026-10-27 · 看看最近的贡献格子。
 
 <sub>动画来源：<a href="https://github.com/Platane/snk">Platane/snk</a></sub>
 
