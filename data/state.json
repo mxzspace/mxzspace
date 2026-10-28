@@ -1,7 +1,7 @@
 {
   "frog": {
     "name": "小呱",
-    "energy": 52,
+    "energy": 34,
     "history": [
       {
         "place": "黄山",
@@ -380,22 +380,31 @@
         "diary": "泡一杯热茶，把收来的纪念品摆好。今天先好好休息，明天再看远方。",
         "scene": "lake",
         "rest": true
+      },
+      {
+        "place": "青岛",
+        "spot": "海岸灯塔",
+        "souvenir": "灯塔贴纸",
+        "diary": "海风有一点咸，远处的灯塔像在对我眨眼。",
+        "scene": "sea",
+        "date": "2026-10-28",
+        "rest": false
       }
     ],
-    "travel_count": 32,
-    "day": "2026-10-27",
+    "travel_count": 33,
+    "day": "2026-10-28",
     "rest_next": false,
     "message": "主页已更新。",
     "fed_day": "2026-09-24"
   },
   "box": {
-    "date": "2026-10-27",
+    "date": "2026-10-28",
     "site": {
-      "name": "全球电台花园",
-      "url": "https://radio.garden/",
-      "tag": "声音旅行",
-      "hint": "把地球当成收音机",
-      "how": "拖动地球选择绿色圆点，听当地电台；浏览器可能需要先点一下才会播放声音。"
+      "name": "无尽画卷",
+      "url": "https://zoomquilt.org/",
+      "tag": "视觉旅行",
+      "hint": "一幅永远走不到尽头的画",
+      "how": "打开后看画面不断放大，按页面提示可以调整速度。"
     },
     "cycle_used": [
       "https://www.window-swap.com/",
@@ -403,14 +412,15 @@
       "https://musiclab.chromeexperiments.com/Song-Maker/",
       "https://earth.nullschool.net/zh-cn/",
       "https://stellarium-web.org/",
-      "https://radio.garden/"
+      "https://radio.garden/",
+      "https://zoomquilt.org/"
     ]
   },
   "steam": {
     "keep": {
       "ok": true,
-      "checked_at": "2026-10-27 13:04",
-      "success_at": "2026-10-27 13:04",
+      "checked_at": "2026-10-28 13:41",
+      "success_at": "2026-10-28 13:41",
       "offers": [
         {
           "id": "5340370",
@@ -424,11 +434,11 @@
     },
     "trial": {
       "ok": true,
-      "checked_at": "2026-10-27 13:04",
-      "success_at": "2026-10-27 13:04",
+      "checked_at": "2026-10-28 13:41",
+      "success_at": "2026-10-28 13:41",
       "offers": []
     }
   },
-  "updated_at": "2026-10-27 13:04",
-  "snake_day": "2026-10-27"
+  "updated_at": "2026-10-28 13:41",
+  "snake_day": "2026-10-28"
 }
