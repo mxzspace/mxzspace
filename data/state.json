@@ -1,7 +1,7 @@
 {
   "frog": {
     "name": "小呱",
-    "energy": 34,
+    "energy": 16,
     "history": [
       {
         "place": "黄山",
@@ -389,22 +389,31 @@
         "scene": "sea",
         "date": "2026-10-28",
         "rest": false
+      },
+      {
+        "place": "成都",
+        "spot": "竹林茶馆",
+        "souvenir": "竹叶明信片",
+        "diary": "喝了一口温热的茶，把午后留给摇晃的竹影。",
+        "scene": "forest",
+        "date": "2026-10-29",
+        "rest": false
       }
     ],
-    "travel_count": 33,
-    "day": "2026-10-28",
+    "travel_count": 34,
+    "day": "2026-10-29",
     "rest_next": false,
     "message": "主页已更新。",
     "fed_day": "2026-09-24"
   },
   "box": {
-    "date": "2026-10-28",
+    "date": "2026-10-29",
     "site": {
-      "name": "无尽画卷",
-      "url": "https://zoomquilt.org/",
-      "tag": "视觉旅行",
-      "hint": "一幅永远走不到尽头的画",
-      "how": "打开后看画面不断放大，按页面提示可以调整速度。"
+      "name": "沙粒实验室",
+      "url": "https://sandspiel.club/",
+      "tag": "解压玩具",
+      "hint": "一把沙，一整个小世界",
+      "how": "在画布上拖动鼠标撒下材料，看它们流动、堆积和发生变化。菜单名称为英文，可逐个试。"
     },
     "cycle_used": [
       "https://www.window-swap.com/",
@@ -413,14 +422,15 @@
       "https://earth.nullschool.net/zh-cn/",
       "https://stellarium-web.org/",
       "https://radio.garden/",
-      "https://zoomquilt.org/"
+      "https://zoomquilt.org/",
+      "https://sandspiel.club/"
     ]
   },
   "steam": {
     "keep": {
       "ok": true,
-      "checked_at": "2026-10-28 13:41",
-      "success_at": "2026-10-28 13:41",
+      "checked_at": "2026-10-29 13:47",
+      "success_at": "2026-10-29 13:47",
       "offers": [
         {
           "id": "5340370",
@@ -434,11 +444,11 @@
     },
     "trial": {
       "ok": true,
-      "checked_at": "2026-10-28 13:41",
-      "success_at": "2026-10-28 13:41",
+      "checked_at": "2026-10-29 13:47",
+      "success_at": "2026-10-29 13:47",
       "offers": []
     }
   },
-  "updated_at": "2026-10-28 13:41",
-  "snake_day": "2026-10-28"
+  "updated_at": "2026-10-29 13:47",
+  "snake_day": "2026-10-29"
 }
