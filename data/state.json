@@ -1,7 +1,7 @@
 {
   "frog": {
     "name": "小呱",
-    "energy": 16,
+    "energy": 61,
     "history": [
       {
         "place": "黄山",
@@ -398,22 +398,31 @@
         "scene": "forest",
         "date": "2026-10-29",
         "rest": false
+      },
+      {
+        "date": "2026-10-30",
+        "place": "在家",
+        "spot": "荷叶小屋",
+        "souvenir": "休息日印章",
+        "diary": "泡一杯热茶，把收来的纪念品摆好。今天先好好休息，明天再看远方。",
+        "scene": "lake",
+        "rest": true
       }
     ],
     "travel_count": 34,
-    "day": "2026-10-29",
+    "day": "2026-10-30",
     "rest_next": false,
     "message": "主页已更新。",
     "fed_day": "2026-09-24"
   },
   "box": {
-    "date": "2026-10-29",
+    "date": "2026-10-30",
     "site": {
-      "name": "沙粒实验室",
-      "url": "https://sandspiel.club/",
-      "tag": "解压玩具",
-      "hint": "一把沙，一整个小世界",
-      "how": "在画布上拖动鼠标撒下材料，看它们流动、堆积和发生变化。菜单名称为英文，可逐个试。"
+      "name": "小小炼金术",
+      "url": "https://littlealchemy2.com/",
+      "tag": "合成游戏",
+      "hint": "水、火、空气，会合成什么",
+      "how": "把两个元素拖到一起尝试合成，先用图标理解玩法。部分提示为英文。"
     },
     "cycle_used": [
       "https://www.window-swap.com/",
@@ -423,32 +432,41 @@
       "https://stellarium-web.org/",
       "https://radio.garden/",
       "https://zoomquilt.org/",
-      "https://sandspiel.club/"
+      "https://sandspiel.club/",
+      "https://littlealchemy2.com/"
     ]
   },
   "steam": {
     "keep": {
       "ok": true,
-      "checked_at": "2026-10-29 13:47",
-      "success_at": "2026-10-29 13:47",
+      "checked_at": "2026-10-30 13:48",
+      "success_at": "2026-10-30 13:48",
       "offers": [
         {
-          "id": "5340370",
-          "name": "Popcorn & Premieren - Ausgehviertel",
+          "id": "4693960",
+          "name": "Hunting Simulator 3 - Classic American Hunter Pack",
           "kind": "keep",
-          "note": "在 10 月 29 日 上午 10:00 前获取该商品，即可免费保留。 存在一些限制。",
-          "url": "https://store.steampowered.com/app/5340370/?cc=cn&l=schinese",
+          "note": "在 11 月 12 日 上午 10:00 前获取该商品，即可免费保留。 存在一些限制。",
+          "url": "https://store.steampowered.com/app/4693960/?cc=cn&l=schinese",
           "dlc": true
+        },
+        {
+          "id": "785890",
+          "name": "Hexologic",
+          "kind": "keep",
+          "note": "在 10 月 31 日 上午 10:00 前获取该商品，即可免费保留。 存在一些限制。",
+          "url": "https://store.steampowered.com/app/785890/?cc=cn&l=schinese",
+          "dlc": false
         }
       ]
     },
     "trial": {
       "ok": true,
-      "checked_at": "2026-10-29 13:47",
-      "success_at": "2026-10-29 13:47",
+      "checked_at": "2026-10-30 13:48",
+      "success_at": "2026-10-30 13:48",
       "offers": []
     }
   },
-  "updated_at": "2026-10-29 13:47",
-  "snake_day": "2026-10-29"
+  "updated_at": "2026-10-30 13:48",
+  "snake_day": "2026-10-30"
 }
