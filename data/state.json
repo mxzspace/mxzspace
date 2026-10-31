@@ -1,7 +1,7 @@
 {
   "frog": {
     "name": "小呱",
-    "energy": 61,
+    "energy": 43,
     "history": [
       {
         "place": "黄山",
@@ -407,41 +407,50 @@
         "diary": "泡一杯热茶，把收来的纪念品摆好。今天先好好休息，明天再看远方。",
         "scene": "lake",
         "rest": true
+      },
+      {
+        "place": "景德镇",
+        "spot": "陶器小铺",
+        "souvenir": "青花小杯",
+        "diary": "在转盘前发呆，泥巴转着转着就变成了杯子。",
+        "scene": "city",
+        "date": "2026-10-31",
+        "rest": false
       }
     ],
-    "travel_count": 34,
-    "day": "2026-10-30",
+    "travel_count": 35,
+    "day": "2026-10-31",
     "rest_next": false,
     "message": "主页已更新。",
     "fed_day": "2026-09-24"
   },
   "box": {
-    "date": "2026-10-30",
+    "date": "2026-10-31",
     "site": {
-      "name": "小小炼金术",
-      "url": "https://littlealchemy2.com/",
-      "tag": "合成游戏",
-      "hint": "水、火、空气，会合成什么",
-      "how": "把两个元素拖到一起尝试合成，先用图标理解玩法。部分提示为英文。"
+      "name": "全球电台花园",
+      "url": "https://radio.garden/",
+      "tag": "声音旅行",
+      "hint": "把地球当成收音机",
+      "how": "拖动地球选择绿色圆点，听当地电台；浏览器可能需要先点一下才会播放声音。"
     },
     "cycle_used": [
-      "https://www.window-swap.com/",
-      "https://ncase.me/loopy/",
-      "https://musiclab.chromeexperiments.com/Song-Maker/",
-      "https://earth.nullschool.net/zh-cn/",
-      "https://stellarium-web.org/",
-      "https://radio.garden/",
-      "https://zoomquilt.org/",
-      "https://sandspiel.club/",
-      "https://littlealchemy2.com/"
+      "https://radio.garden/"
     ]
   },
   "steam": {
     "keep": {
       "ok": true,
-      "checked_at": "2026-10-30 13:48",
-      "success_at": "2026-10-30 13:48",
+      "checked_at": "2026-10-31 13:39",
+      "success_at": "2026-10-31 13:39",
       "offers": [
+        {
+          "id": "1583850",
+          "name": "Asleep 沉睡: Ato 1",
+          "kind": "keep",
+          "note": "在 11 月 2 日 上午 10:00 前获取该商品，即可免费保留。 存在一些限制。",
+          "url": "https://store.steampowered.com/app/1583850/?cc=cn&l=schinese",
+          "dlc": false
+        },
         {
           "id": "4693960",
           "name": "Hunting Simulator 3 - Classic American Hunter Pack",
@@ -462,11 +471,11 @@
     },
     "trial": {
       "ok": true,
-      "checked_at": "2026-10-30 13:48",
-      "success_at": "2026-10-30 13:48",
+      "checked_at": "2026-10-31 13:39",
+      "success_at": "2026-10-31 13:39",
       "offers": []
     }
   },
-  "updated_at": "2026-10-30 13:48",
-  "snake_day": "2026-10-30"
+  "updated_at": "2026-10-31 13:39",
+  "snake_day": "2026-10-31"
 }
