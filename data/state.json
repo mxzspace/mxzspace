@@ -1,7 +1,7 @@
 {
   "frog": {
     "name": "小呱",
-    "energy": 7,
+    "energy": 52,
     "history": [
       {
         "place": "黄山",
@@ -434,43 +434,45 @@
         "scene": "forest",
         "date": "2026-11-02",
         "rest": false
+      },
+      {
+        "date": "2026-11-03",
+        "place": "在家",
+        "spot": "荷叶小屋",
+        "souvenir": "休息日印章",
+        "diary": "泡一杯热茶，把收来的纪念品摆好。今天先好好休息，明天再看远方。",
+        "scene": "lake",
+        "rest": true
       }
     ],
     "travel_count": 37,
-    "day": "2026-11-02",
+    "day": "2026-11-03",
     "rest_next": false,
     "message": "主页已更新。",
     "fed_day": "2026-09-24"
   },
   "box": {
-    "date": "2026-11-02",
+    "date": "2026-11-03",
     "site": {
-      "name": "无尽画卷",
-      "url": "https://zoomquilt.org/",
-      "tag": "视觉旅行",
-      "hint": "一幅永远走不到尽头的画",
-      "how": "打开后看画面不断放大，按页面提示可以调整速度。"
+      "name": "窗外的世界",
+      "url": "https://www.window-swap.com/",
+      "tag": "云旅行",
+      "hint": "借一扇别人的窗，看世界",
+      "how": "点打开窗户的按钮，看来自别处的风景和环境声音；部分功能需要注册。"
     },
     "cycle_used": [
       "https://radio.garden/",
       "https://stellarium-web.org/",
-      "https://zoomquilt.org/"
+      "https://zoomquilt.org/",
+      "https://www.window-swap.com/"
     ]
   },
   "steam": {
     "keep": {
       "ok": true,
-      "checked_at": "2026-11-02 14:01",
-      "success_at": "2026-11-02 14:01",
+      "checked_at": "2026-11-03 14:46",
+      "success_at": "2026-11-03 14:46",
       "offers": [
-        {
-          "id": "1583850",
-          "name": "Asleep 沉睡: Ato 1",
-          "kind": "keep",
-          "note": "在 11 月 2 日 上午 10:00 前获取该商品，即可免费保留。 存在一些限制。",
-          "url": "https://store.steampowered.com/app/1583850/?cc=cn&l=schinese",
-          "dlc": false
-        },
         {
           "id": "4693960",
           "name": "Hunting Simulator 3 - Classic American Hunter Pack",
@@ -483,11 +485,11 @@
     },
     "trial": {
       "ok": true,
-      "checked_at": "2026-11-02 14:01",
-      "success_at": "2026-11-02 14:01",
+      "checked_at": "2026-11-03 14:46",
+      "success_at": "2026-11-03 14:46",
       "offers": []
     }
   },
-  "updated_at": "2026-11-02 14:01",
-  "snake_day": "2026-11-02"
+  "updated_at": "2026-11-03 14:46",
+  "snake_day": "2026-11-03"
 }
