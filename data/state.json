@@ -1,7 +1,7 @@
 {
   "frog": {
     "name": "小呱",
-    "energy": 52,
+    "energy": 34,
     "history": [
       {
         "place": "黄山",
@@ -443,35 +443,45 @@
         "diary": "泡一杯热茶，把收来的纪念品摆好。今天先好好休息，明天再看远方。",
         "scene": "lake",
         "rest": true
+      },
+      {
+        "place": "张家界",
+        "spot": "山间栈道",
+        "souvenir": "云朵邮票",
+        "diary": "走在山间，感觉每座山都顶着一顶云做的帽子。",
+        "scene": "mountain",
+        "date": "2026-11-04",
+        "rest": false
       }
     ],
-    "travel_count": 37,
-    "day": "2026-11-03",
+    "travel_count": 38,
+    "day": "2026-11-04",
     "rest_next": false,
     "message": "主页已更新。",
     "fed_day": "2026-09-24"
   },
   "box": {
-    "date": "2026-11-03",
+    "date": "2026-11-04",
     "site": {
-      "name": "窗外的世界",
-      "url": "https://www.window-swap.com/",
-      "tag": "云旅行",
-      "hint": "借一扇别人的窗，看世界",
-      "how": "点打开窗户的按钮，看来自别处的风景和环境声音；部分功能需要注册。"
+      "name": "小小炼金术",
+      "url": "https://littlealchemy2.com/",
+      "tag": "合成游戏",
+      "hint": "水、火、空气，会合成什么",
+      "how": "把两个元素拖到一起尝试合成，先用图标理解玩法。部分提示为英文。"
     },
     "cycle_used": [
       "https://radio.garden/",
       "https://stellarium-web.org/",
       "https://zoomquilt.org/",
-      "https://www.window-swap.com/"
+      "https://www.window-swap.com/",
+      "https://littlealchemy2.com/"
     ]
   },
   "steam": {
     "keep": {
       "ok": true,
-      "checked_at": "2026-11-03 14:46",
-      "success_at": "2026-11-03 14:46",
+      "checked_at": "2026-11-04 14:21",
+      "success_at": "2026-11-04 14:21",
       "offers": [
         {
           "id": "4693960",
@@ -485,11 +495,11 @@
     },
     "trial": {
       "ok": true,
-      "checked_at": "2026-11-03 14:46",
-      "success_at": "2026-11-03 14:46",
+      "checked_at": "2026-11-04 14:21",
+      "success_at": "2026-11-04 14:21",
       "offers": []
     }
   },
-  "updated_at": "2026-11-03 14:46",
-  "snake_day": "2026-11-03"
+  "updated_at": "2026-11-04 14:21",
+  "snake_day": "2026-11-04"
 }
