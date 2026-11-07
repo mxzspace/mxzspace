@@ -1,7 +1,7 @@
 {
   "frog": {
     "name": "小呱",
-    "energy": 61,
+    "energy": 43,
     "history": [
       {
         "place": "黄山",
@@ -470,22 +470,31 @@
         "diary": "泡一杯热茶，把收来的纪念品摆好。今天先好好休息，明天再看远方。",
         "scene": "lake",
         "rest": true
+      },
+      {
+        "place": "厦门",
+        "spot": "海边小路",
+        "souvenir": "贝壳纽扣",
+        "diary": "跟着潮声走了很远，把一枚贝壳装进背包。",
+        "scene": "sea",
+        "date": "2026-11-07",
+        "rest": false
       }
     ],
-    "travel_count": 39,
-    "day": "2026-11-06",
+    "travel_count": 40,
+    "day": "2026-11-07",
     "rest_next": false,
     "message": "主页已更新。",
     "fed_day": "2026-09-24"
   },
   "box": {
-    "date": "2026-11-06",
+    "date": "2026-11-07",
     "site": {
-      "name": "因果小画板",
-      "url": "https://ncase.me/loopy/",
-      "tag": "脑洞实验",
-      "hint": "把想法画成会运转的圈",
-      "how": "先看示例，点圆点上的加减符号，观察变化沿着箭头传递。"
+      "name": "地球风场",
+      "url": "https://earth.nullschool.net/zh-cn/",
+      "tag": "地球观察",
+      "hint": "一颗会流动的地球",
+      "how": "拖动地球、滚轮缩放，看空气在地球上画线。左下角可切换图层。"
     },
     "cycle_used": [
       "https://radio.garden/",
@@ -494,14 +503,15 @@
       "https://www.window-swap.com/",
       "https://littlealchemy2.com/",
       "https://musiclab.chromeexperiments.com/Song-Maker/",
-      "https://ncase.me/loopy/"
+      "https://ncase.me/loopy/",
+      "https://earth.nullschool.net/zh-cn/"
     ]
   },
   "steam": {
     "keep": {
       "ok": true,
-      "checked_at": "2026-11-06 14:44",
-      "success_at": "2026-11-06 14:44",
+      "checked_at": "2026-11-07 13:57",
+      "success_at": "2026-11-07 13:57",
       "offers": [
         {
           "id": "4693960",
@@ -515,26 +525,26 @@
     },
     "trial": {
       "ok": true,
-      "checked_at": "2026-11-06 14:44",
-      "success_at": "2026-11-06 14:44",
+      "checked_at": "2026-11-07 13:57",
+      "success_at": "2026-11-07 13:57",
       "offers": [
-        {
-          "id": "1272080",
-          "name": "PAYDAY3 (收获日3)  ",
-          "kind": "trial",
-          "note": "Steam 官方推荐栏标为限时试玩；结束时间和地区资格请打开商店确认。",
-          "url": "https://store.steampowered.com/app/1272080/?cc=cn&l=schinese"
-        },
         {
           "id": "1669000",
           "name": "Age of Wonders 4",
           "kind": "trial",
           "note": "Steam 官方推荐栏标为限时试玩；结束时间和地区资格请打开商店确认。",
           "url": "https://store.steampowered.com/app/1669000/?cc=cn&l=schinese"
+        },
+        {
+          "id": "1272080",
+          "name": "PAYDAY3 (收获日3)  ",
+          "kind": "trial",
+          "note": "Steam 官方推荐栏标为限时试玩；结束时间和地区资格请打开商店确认。",
+          "url": "https://store.steampowered.com/app/1272080/?cc=cn&l=schinese"
         }
       ]
     }
   },
-  "updated_at": "2026-11-06 14:44",
-  "snake_day": "2026-11-06"
+  "updated_at": "2026-11-07 13:57",
+  "snake_day": "2026-11-07"
 }
