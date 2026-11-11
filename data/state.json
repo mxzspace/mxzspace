@@ -1,7 +1,7 @@
 {
   "frog": {
     "name": "小呱",
-    "energy": 52,
+    "energy": 34,
     "history": [
       {
         "place": "黄山",
@@ -506,33 +506,43 @@
         "diary": "泡一杯热茶，把收来的纪念品摆好。今天先好好休息，明天再看远方。",
         "scene": "lake",
         "rest": true
+      },
+      {
+        "place": "重庆",
+        "spot": "山城阶梯",
+        "souvenir": "小缆车徽章",
+        "diary": "上了楼又下了坡，终于找到一家想坐下的小店。",
+        "scene": "city",
+        "date": "2026-11-11",
+        "rest": false
       }
     ],
-    "travel_count": 42,
-    "day": "2026-11-10",
+    "travel_count": 43,
+    "day": "2026-11-11",
     "rest_next": false,
     "message": "主页已更新。",
     "fed_day": "2026-09-24"
   },
   "box": {
-    "date": "2026-11-10",
+    "date": "2026-11-11",
     "site": {
-      "name": "掌上星空",
-      "url": "https://stellarium-web.org/",
-      "tag": "看星星",
-      "hint": "今晚，抬头之外的宇宙",
-      "how": "拖动画面转动视角，滚轮缩放；可以搜索星体。部分菜单为英文，不影响看星空。"
+      "name": "沙粒实验室",
+      "url": "https://sandspiel.club/",
+      "tag": "解压玩具",
+      "hint": "一把沙，一整个小世界",
+      "how": "在画布上拖动鼠标撒下材料，看它们流动、堆积和发生变化。菜单名称为英文，可逐个试。"
     },
     "cycle_used": [
       "https://zoomquilt.org/",
-      "https://stellarium-web.org/"
+      "https://stellarium-web.org/",
+      "https://sandspiel.club/"
     ]
   },
   "steam": {
     "keep": {
       "ok": true,
-      "checked_at": "2026-11-10 15:17",
-      "success_at": "2026-11-10 15:17",
+      "checked_at": "2026-11-11 14:18",
+      "success_at": "2026-11-11 14:18",
       "offers": [
         {
           "id": "4693960",
@@ -546,11 +556,11 @@
     },
     "trial": {
       "ok": true,
-      "checked_at": "2026-11-10 15:17",
-      "success_at": "2026-11-10 15:17",
+      "checked_at": "2026-11-11 14:18",
+      "success_at": "2026-11-11 14:18",
       "offers": []
     }
   },
-  "updated_at": "2026-11-10 15:17",
-  "snake_day": "2026-11-10"
+  "updated_at": "2026-11-11 14:18",
+  "snake_day": "2026-11-11"
 }
