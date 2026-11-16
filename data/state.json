@@ -1,7 +1,7 @@
 {
   "frog": {
     "name": "小呱",
-    "energy": 25,
+    "energy": 7,
     "history": [
       {
         "place": "黄山",
@@ -551,22 +551,31 @@
         "scene": "city",
         "date": "2026-11-15",
         "rest": false
+      },
+      {
+        "place": "大理",
+        "spot": "洱海边",
+        "souvenir": "蓝色石子",
+        "diary": "风把围巾吹成一面小旗，湖面像揉碎的蓝玻璃。",
+        "scene": "lake",
+        "date": "2026-11-16",
+        "rest": false
       }
     ],
-    "travel_count": 46,
-    "day": "2026-11-15",
+    "travel_count": 47,
+    "day": "2026-11-16",
     "rest_next": false,
     "message": "主页已更新。",
     "fed_day": "2026-09-24"
   },
   "box": {
-    "date": "2026-11-15",
+    "date": "2026-11-16",
     "site": {
-      "name": "全球电台花园",
-      "url": "https://radio.garden/",
-      "tag": "声音旅行",
-      "hint": "把地球当成收音机",
-      "how": "拖动地球选择绿色圆点，听当地电台；浏览器可能需要先点一下才会播放声音。"
+      "name": "小小炼金术",
+      "url": "https://littlealchemy2.com/",
+      "tag": "合成游戏",
+      "hint": "水、火、空气，会合成什么",
+      "how": "把两个元素拖到一起尝试合成，先用图标理解玩法。部分提示为英文。"
     },
     "cycle_used": [
       "https://zoomquilt.org/",
@@ -575,38 +584,39 @@
       "https://musiclab.chromeexperiments.com/Song-Maker/",
       "https://www.window-swap.com/",
       "https://ncase.me/loopy/",
-      "https://radio.garden/"
+      "https://radio.garden/",
+      "https://littlealchemy2.com/"
     ]
   },
   "steam": {
     "keep": {
       "ok": true,
-      "checked_at": "2026-11-15 14:30",
-      "success_at": "2026-11-15 14:30",
+      "checked_at": "2026-11-16 14:28",
+      "success_at": "2026-11-16 14:28",
       "offers": []
     },
     "trial": {
       "ok": true,
-      "checked_at": "2026-11-15 14:30",
-      "success_at": "2026-11-15 14:30",
+      "checked_at": "2026-11-16 14:28",
+      "success_at": "2026-11-16 14:28",
       "offers": [
-        {
-          "id": "2605790",
-          "name": "深岩银河：异动核心",
-          "kind": "trial",
-          "note": "Steam 官方推荐栏标为限时试玩；结束时间和地区资格请打开商店确认。",
-          "url": "https://store.steampowered.com/app/2605790/?cc=cn&l=schinese"
-        },
         {
           "id": "949230",
           "name": "《都市：天际线2》",
           "kind": "trial",
           "note": "Steam 官方推荐栏标为限时试玩；结束时间和地区资格请打开商店确认。",
           "url": "https://store.steampowered.com/app/949230/?cc=cn&l=schinese"
+        },
+        {
+          "id": "2605790",
+          "name": "深岩银河：异动核心",
+          "kind": "trial",
+          "note": "Steam 官方推荐栏标为限时试玩；结束时间和地区资格请打开商店确认。",
+          "url": "https://store.steampowered.com/app/2605790/?cc=cn&l=schinese"
         }
       ]
     }
   },
-  "updated_at": "2026-11-15 14:30",
-  "snake_day": "2026-11-15"
+  "updated_at": "2026-11-16 14:28",
+  "snake_day": "2026-11-16"
 }
