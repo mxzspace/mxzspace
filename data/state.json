@@ -1,7 +1,7 @@
 {
   "frog": {
     "name": "小呱",
-    "energy": 7,
+    "energy": 52,
     "history": [
       {
         "place": "黄山",
@@ -560,22 +560,31 @@
         "scene": "lake",
         "date": "2026-11-16",
         "rest": false
+      },
+      {
+        "date": "2026-11-17",
+        "place": "在家",
+        "spot": "荷叶小屋",
+        "souvenir": "休息日印章",
+        "diary": "泡一杯热茶，把收来的纪念品摆好。今天先好好休息，明天再看远方。",
+        "scene": "lake",
+        "rest": true
       }
     ],
     "travel_count": 47,
-    "day": "2026-11-16",
+    "day": "2026-11-17",
     "rest_next": false,
     "message": "主页已更新。",
     "fed_day": "2026-09-24"
   },
   "box": {
-    "date": "2026-11-16",
+    "date": "2026-11-17",
     "site": {
-      "name": "小小炼金术",
-      "url": "https://littlealchemy2.com/",
-      "tag": "合成游戏",
-      "hint": "水、火、空气，会合成什么",
-      "how": "把两个元素拖到一起尝试合成，先用图标理解玩法。部分提示为英文。"
+      "name": "地球风场",
+      "url": "https://earth.nullschool.net/zh-cn/",
+      "tag": "地球观察",
+      "hint": "一颗会流动的地球",
+      "how": "拖动地球、滚轮缩放，看空气在地球上画线。左下角可切换图层。"
     },
     "cycle_used": [
       "https://zoomquilt.org/",
@@ -585,38 +594,24 @@
       "https://www.window-swap.com/",
       "https://ncase.me/loopy/",
       "https://radio.garden/",
-      "https://littlealchemy2.com/"
+      "https://littlealchemy2.com/",
+      "https://earth.nullschool.net/zh-cn/"
     ]
   },
   "steam": {
     "keep": {
       "ok": true,
-      "checked_at": "2026-11-16 14:28",
-      "success_at": "2026-11-16 14:28",
+      "checked_at": "2026-11-17 15:54",
+      "success_at": "2026-11-17 15:54",
       "offers": []
     },
     "trial": {
       "ok": true,
-      "checked_at": "2026-11-16 14:28",
-      "success_at": "2026-11-16 14:28",
-      "offers": [
-        {
-          "id": "949230",
-          "name": "《都市：天际线2》",
-          "kind": "trial",
-          "note": "Steam 官方推荐栏标为限时试玩；结束时间和地区资格请打开商店确认。",
-          "url": "https://store.steampowered.com/app/949230/?cc=cn&l=schinese"
-        },
-        {
-          "id": "2605790",
-          "name": "深岩银河：异动核心",
-          "kind": "trial",
-          "note": "Steam 官方推荐栏标为限时试玩；结束时间和地区资格请打开商店确认。",
-          "url": "https://store.steampowered.com/app/2605790/?cc=cn&l=schinese"
-        }
-      ]
+      "checked_at": "2026-11-17 15:54",
+      "success_at": "2026-11-17 15:54",
+      "offers": []
     }
   },
-  "updated_at": "2026-11-16 14:28",
-  "snake_day": "2026-11-16"
+  "updated_at": "2026-11-17 15:54",
+  "snake_day": "2026-11-17"
 }
