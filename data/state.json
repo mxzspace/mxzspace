@@ -1,7 +1,7 @@
 {
   "frog": {
     "name": "小呱",
-    "energy": 52,
+    "energy": 34,
     "history": [
       {
         "place": "黄山",
@@ -569,49 +569,50 @@
         "diary": "泡一杯热茶，把收来的纪念品摆好。今天先好好休息，明天再看远方。",
         "scene": "lake",
         "rest": true
+      },
+      {
+        "place": "张家界",
+        "spot": "山间栈道",
+        "souvenir": "云朵邮票",
+        "diary": "走在山间，感觉每座山都顶着一顶云做的帽子。",
+        "scene": "mountain",
+        "date": "2026-11-18",
+        "rest": false
       }
     ],
-    "travel_count": 47,
-    "day": "2026-11-17",
+    "travel_count": 48,
+    "day": "2026-11-18",
     "rest_next": false,
     "message": "主页已更新。",
     "fed_day": "2026-09-24"
   },
   "box": {
-    "date": "2026-11-17",
+    "date": "2026-11-18",
     "site": {
-      "name": "地球风场",
-      "url": "https://earth.nullschool.net/zh-cn/",
-      "tag": "地球观察",
-      "hint": "一颗会流动的地球",
-      "how": "拖动地球、滚轮缩放，看空气在地球上画线。左下角可切换图层。"
+      "name": "沙粒实验室",
+      "url": "https://sandspiel.club/",
+      "tag": "解压玩具",
+      "hint": "一把沙，一整个小世界",
+      "how": "在画布上拖动鼠标撒下材料，看它们流动、堆积和发生变化。菜单名称为英文，可逐个试。"
     },
     "cycle_used": [
-      "https://zoomquilt.org/",
-      "https://stellarium-web.org/",
-      "https://sandspiel.club/",
-      "https://musiclab.chromeexperiments.com/Song-Maker/",
-      "https://www.window-swap.com/",
-      "https://ncase.me/loopy/",
-      "https://radio.garden/",
-      "https://littlealchemy2.com/",
-      "https://earth.nullschool.net/zh-cn/"
+      "https://sandspiel.club/"
     ]
   },
   "steam": {
     "keep": {
       "ok": true,
-      "checked_at": "2026-11-17 15:54",
-      "success_at": "2026-11-17 15:54",
+      "checked_at": "2026-11-18 15:28",
+      "success_at": "2026-11-18 15:28",
       "offers": []
     },
     "trial": {
       "ok": true,
-      "checked_at": "2026-11-17 15:54",
-      "success_at": "2026-11-17 15:54",
+      "checked_at": "2026-11-18 15:28",
+      "success_at": "2026-11-18 15:28",
       "offers": []
     }
   },
-  "updated_at": "2026-11-17 15:54",
-  "snake_day": "2026-11-17"
+  "updated_at": "2026-11-18 15:28",
+  "snake_day": "2026-11-18"
 }
