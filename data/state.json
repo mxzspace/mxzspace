@@ -1,7 +1,7 @@
 {
   "frog": {
     "name": "小呱",
-    "energy": 34,
+    "energy": 16,
     "history": [
       {
         "place": "黄山",
@@ -578,41 +578,51 @@
         "scene": "mountain",
         "date": "2026-11-18",
         "rest": false
+      },
+      {
+        "place": "厦门",
+        "spot": "海边小路",
+        "souvenir": "贝壳纽扣",
+        "diary": "跟着潮声走了很远，把一枚贝壳装进背包。",
+        "scene": "sea",
+        "date": "2026-11-19",
+        "rest": false
       }
     ],
-    "travel_count": 48,
-    "day": "2026-11-18",
+    "travel_count": 49,
+    "day": "2026-11-19",
     "rest_next": false,
     "message": "主页已更新。",
     "fed_day": "2026-09-24"
   },
   "box": {
-    "date": "2026-11-18",
+    "date": "2026-11-19",
     "site": {
-      "name": "沙粒实验室",
-      "url": "https://sandspiel.club/",
-      "tag": "解压玩具",
-      "hint": "一把沙，一整个小世界",
-      "how": "在画布上拖动鼠标撒下材料，看它们流动、堆积和发生变化。菜单名称为英文，可逐个试。"
+      "name": "无尽画卷",
+      "url": "https://zoomquilt.org/",
+      "tag": "视觉旅行",
+      "hint": "一幅永远走不到尽头的画",
+      "how": "打开后看画面不断放大，按页面提示可以调整速度。"
     },
     "cycle_used": [
-      "https://sandspiel.club/"
+      "https://sandspiel.club/",
+      "https://zoomquilt.org/"
     ]
   },
   "steam": {
     "keep": {
       "ok": true,
-      "checked_at": "2026-11-18 15:28",
-      "success_at": "2026-11-18 15:28",
+      "checked_at": "2026-11-19 15:24",
+      "success_at": "2026-11-19 15:24",
       "offers": []
     },
     "trial": {
       "ok": true,
-      "checked_at": "2026-11-18 15:28",
-      "success_at": "2026-11-18 15:28",
+      "checked_at": "2026-11-19 15:24",
+      "success_at": "2026-11-19 15:24",
       "offers": []
     }
   },
-  "updated_at": "2026-11-18 15:28",
-  "snake_day": "2026-11-18"
+  "updated_at": "2026-11-19 15:24",
+  "snake_day": "2026-11-19"
 }
