@@ -1,7 +1,7 @@
 {
   "frog": {
     "name": "小呱",
-    "energy": 43,
+    "energy": 25,
     "history": [
       {
         "place": "黄山",
@@ -605,41 +605,51 @@
         "scene": "desert",
         "date": "2026-11-21",
         "rest": false
+      },
+      {
+        "place": "成都",
+        "spot": "竹林茶馆",
+        "souvenir": "竹叶明信片",
+        "diary": "喝了一口温热的茶，把午后留给摇晃的竹影。",
+        "scene": "forest",
+        "date": "2026-11-22",
+        "rest": false
       }
     ],
-    "travel_count": 50,
-    "day": "2026-11-21",
+    "travel_count": 51,
+    "day": "2026-11-22",
     "rest_next": false,
     "message": "主页已更新。",
     "fed_day": "2026-09-24"
   },
   "box": {
-    "date": "2026-11-21",
+    "date": "2026-11-22",
     "site": {
-      "name": "窗外的世界",
-      "url": "https://www.window-swap.com/",
-      "tag": "云旅行",
-      "hint": "借一扇别人的窗，看世界",
-      "how": "点打开窗户的按钮，看来自别处的风景和环境声音；部分功能需要注册。"
+      "name": "地球风场",
+      "url": "https://earth.nullschool.net/zh-cn/",
+      "tag": "地球观察",
+      "hint": "一颗会流动的地球",
+      "how": "拖动地球、滚轮缩放，看空气在地球上画线。左下角可切换图层。"
     },
     "cycle_used": [
       "https://sandspiel.club/",
       "https://zoomquilt.org/",
       "https://musiclab.chromeexperiments.com/Song-Maker/",
-      "https://www.window-swap.com/"
+      "https://www.window-swap.com/",
+      "https://earth.nullschool.net/zh-cn/"
     ]
   },
   "steam": {
     "keep": {
       "ok": true,
-      "checked_at": "2026-11-21 15:06",
-      "success_at": "2026-11-21 15:06",
+      "checked_at": "2026-11-22 14:46",
+      "success_at": "2026-11-22 14:46",
       "offers": []
     },
     "trial": {
       "ok": true,
-      "checked_at": "2026-11-21 15:06",
-      "success_at": "2026-11-21 15:06",
+      "checked_at": "2026-11-22 14:46",
+      "success_at": "2026-11-22 14:46",
       "offers": [
         {
           "id": "1158310",
@@ -651,6 +661,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-21 15:06",
-  "snake_day": "2026-11-21"
+  "updated_at": "2026-11-22 14:46",
+  "snake_day": "2026-11-22"
 }
