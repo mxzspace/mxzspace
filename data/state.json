@@ -1,7 +1,7 @@
 {
   "frog": {
     "name": "小呱",
-    "energy": 52,
+    "energy": 34,
     "history": [
       {
         "place": "黄山",
@@ -632,22 +632,31 @@
         "diary": "泡一杯热茶，把收来的纪念品摆好。今天先好好休息，明天再看远方。",
         "scene": "lake",
         "rest": true
+      },
+      {
+        "place": "黄山",
+        "spot": "云海山间",
+        "souvenir": "松针书签",
+        "diary": "背着饭团爬到山顶，云朵就在脚下排队。",
+        "scene": "mountain",
+        "date": "2026-11-25",
+        "rest": false
       }
     ],
-    "travel_count": 52,
-    "day": "2026-11-24",
+    "travel_count": 53,
+    "day": "2026-11-25",
     "rest_next": false,
     "message": "主页已更新。",
     "fed_day": "2026-09-24"
   },
   "box": {
-    "date": "2026-11-24",
+    "date": "2026-11-25",
     "site": {
-      "name": "因果小画板",
-      "url": "https://ncase.me/loopy/",
-      "tag": "脑洞实验",
-      "hint": "把想法画成会运转的圈",
-      "how": "先看示例，点圆点上的加减符号，观察变化沿着箭头传递。"
+      "name": "掌上星空",
+      "url": "https://stellarium-web.org/",
+      "tag": "看星星",
+      "hint": "今晚，抬头之外的宇宙",
+      "how": "拖动画面转动视角，滚轮缩放；可以搜索星体。部分菜单为英文，不影响看星空。"
     },
     "cycle_used": [
       "https://sandspiel.club/",
@@ -656,23 +665,24 @@
       "https://www.window-swap.com/",
       "https://earth.nullschool.net/zh-cn/",
       "https://littlealchemy2.com/",
-      "https://ncase.me/loopy/"
+      "https://ncase.me/loopy/",
+      "https://stellarium-web.org/"
     ]
   },
   "steam": {
     "keep": {
       "ok": true,
-      "checked_at": "2026-11-24 17:53",
-      "success_at": "2026-11-24 17:53",
+      "checked_at": "2026-11-25 16:32",
+      "success_at": "2026-11-25 16:32",
       "offers": []
     },
     "trial": {
       "ok": true,
-      "checked_at": "2026-11-24 17:53",
-      "success_at": "2026-11-24 17:53",
+      "checked_at": "2026-11-25 16:32",
+      "success_at": "2026-11-25 16:32",
       "offers": []
     }
   },
-  "updated_at": "2026-11-24 17:53",
-  "snake_day": "2026-11-24"
+  "updated_at": "2026-11-25 16:32",
+  "snake_day": "2026-11-25"
 }
