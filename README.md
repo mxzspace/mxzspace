@@ -2,7 +2,7 @@
 
 <p align="center"><a href="#steam">🎮 捡游戏</a>　·　<a href="#frog">🐸 看小呱</a>　·　<a href="#box">🎁 拆盲盒</a>　·　<a href="#snake">🐍 看贪吃蛇</a>　·　<a href="https://github.com/mxzspace/mxzspace/blob/main/使用指南.md">📖 操作备忘</a></p>
 
-> 上次更新：北京时间 2026-11-27 16:31 · 每天 08:17 自动更新。
+> 上次更新：北京时间 2026-11-28 15:47 · 每天 08:17 自动更新。
 
 <a id="steam"></a>
 ## 🎮 Steam 免费游戏雷达
@@ -11,13 +11,13 @@
 
 ### 🎁 限时领取 · 永久保留
 
-检查时间：2026-11-27 16:31（北京时间）
+检查时间：2026-11-28 15:47（北京时间）
 
 这次没查到，明天再看看。
 
 ### ⏳ 免费周末 · 限时试玩
 
-检查时间：2026-11-27 16:31（北京时间）
+检查时间：2026-11-28 15:47（北京时间）
 
 这次没查到，明天再看看。
 
@@ -26,9 +26,9 @@
 <a id="frog"></a>
 ## 🐸 小呱的慢旅行
 
-![小呱今天的明信片](https://raw.githubusercontent.com/mxzspace/mxzspace/main/assets/frog-64fca47f68a3.svg)
+![小呱今天的明信片](https://raw.githubusercontent.com/mxzspace/mxzspace/main/assets/frog-04061b990dcc.svg)
 
-**体力：61/100**　·　**旅行：54 次**　·　**明天：体力够就出发**
+**体力：43/100**　·　**旅行：55 次**　·　**明天：体力够就出发**
 
 今天还没喂。
 
@@ -36,21 +36,21 @@
 
 <sub>点完操作，还要在下一页点绿色的「Submit new issue」（提交），再回来刷新。每天喂一次就够，不喂也会自己休息。</sub>
 
-![最近的旅行足迹](https://raw.githubusercontent.com/mxzspace/mxzspace/main/assets/footprints.svg?v=2026-11-27)
+![最近的旅行足迹](https://raw.githubusercontent.com/mxzspace/mxzspace/main/assets/footprints.svg?v=2026-11-28)
 
 <a id="box"></a>
 ## 🎁 今日网站盲盒
 
-**2026-11-27**　·　提示：**水、火、空气，会合成什么**
+**2026-11-28**　·　提示：**把想法画成会运转的圈**
 
 <details>
 <summary>拆开看看</summary>
 
-### 小小炼金术
+### 因果小画板
 
-**合成游戏** · 把两个元素拖到一起尝试合成，先用图标理解玩法。部分提示为英文。
+**脑洞实验** · 先看示例，点圆点上的加减符号，观察变化沿着箭头传递。
 
-[🚀 打开今天的网站](https://littlealchemy2.com/)
+[🚀 打开今天的网站](https://ncase.me/loopy/)
 
 每天换一个，一轮抽完再重复。遇到英文就用浏览器翻译。
 
@@ -60,11 +60,11 @@
 ## 🐍 我的贡献贪吃蛇
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mxzspace/mxzspace/main/assets/snake-dark-67a1d5a4e34f.svg">
-  <img alt="贪吃蛇正在吃我的真实 GitHub 贡献格子" src="https://raw.githubusercontent.com/mxzspace/mxzspace/main/assets/snake-67a1d5a4e34f.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mxzspace/mxzspace/main/assets/snake-dark-f71ae31a9a52.svg">
+  <img alt="贪吃蛇正在吃我的真实 GitHub 贡献格子" src="https://raw.githubusercontent.com/mxzspace/mxzspace/main/assets/snake-f71ae31a9a52.svg" width="100%">
 </picture>
 
-更新于 2026-11-27 · 看看最近的贡献格子。
+更新于 2026-11-28 · 看看最近的贡献格子。
 
 <sub>动画来源：<a href="https://github.com/Platane/snk">Platane/snk</a></sub>
 
